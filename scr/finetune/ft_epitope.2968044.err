@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/users/PAS2177/liu9756/DualChain-SelfAg_prediction/scr/finetune/finetune_epitope_classifier.py", line 836, in <module>
+    run(args)
+    ~~~^^^^^^
+  File "/users/PAS2177/liu9756/DualChain-SelfAg_prediction/scr/finetune/finetune_epitope_classifier.py", line 469, in run
+    idx_tr = np.load(data_dir / "idx_train.npy").astype(int)
+             ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2177/liu9756/miniconda3/envs/Ye/lib/python3.13/site-packages/numpy/lib/_npyio_impl.py", line 454, in load
+    fid = stack.enter_context(open(os.fspath(file), "rb"))
+                              ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/users/PAS2177/liu9756/DualChain-SelfAg_prediction/data/featurized_min5/idx_train.npy'

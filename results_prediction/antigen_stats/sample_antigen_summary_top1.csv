@@ -1,0 +1,11 @@
+"sample","n_total_antigen","n_unique_antigen","unique_antigen_list","n_shared_antigen","mean_over_samples","max_over_samples"
+"RA01",31,1,"Mutator family transposase (UniProt:I6XH73)",30,9.5,10
+"RA02",32,0,NA,32,9.40625,10
+"RA03",30,0,NA,30,9.56666666666667,10
+"RA04",31,0,NA,31,9.32258064516129,10
+"RA05",28,0,NA,28,9.5,10
+"RA06",34,0,NA,34,9.05882352941176,10
+"RA07",31,0,NA,31,9.32258064516129,10
+"RA11",34,1,"Myelin basic protein (UniProt:A0A3B3I114)",33,9.15151515151515,10
+"RA12",30,0,NA,30,9.4,10
+"RA13",31,0,NA,31,9.45161290322581,10

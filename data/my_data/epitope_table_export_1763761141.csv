@@ -1,0 +1,1948 @@
+"Epitopes - IEDB ID","Epitopes - Epitope","Epitopes - Antigen","Epitopes - Organism","Epitopes - # References","Epitopes - # Assays"
+155,AAGIGILTV,"Melanoma antigen recognized by T-cells 1 (UniProt:Q16655)","Homo sapiens (human)",10,26
+504,AAVVRFQEAANKQK,"ESAT-6-like protein EsxB (UniProt:P9WNK5)","Mycobacterium tuberculosis",1,6
+505,AAVVRFQEAANKQKQ,"ESAT-6-like protein EsxB (UniProt:P9WNK5)","Mycobacterium tuberculosis",2,3
+551,ACDPHSGHFV,,,1,6
+1220,AEVQIDRLI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1349,AFLLFLVLI,"ORF7b protein (UniProt:P0DTD8)",SARS-CoV2,1,1
+1946,AIILASFSA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2014,AIMDKNIIL,"Non-structural protein 1 (UniProt:P03496)","Influenza A virus",2,2
+2027,AIMTRCLAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2431,ALALLLLDR,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2630,ALIHHNTHL,"Receptor tyrosine-protein kinase erbB-2 (UniProt:P04626)","Homo sapiens (human)",1,1
+2682,ALLADKFPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2802,ALNTPKDHI,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2861,ALRGMGVNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+2880,ALSGVFCGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2998,ALWEIQQVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,4
+3179,AMQTMLFTM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+3732,APQPAPENAY,"Lytic switch protein BZLF1 (UniProt:P03206)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+4968,ATGFKQSSKALQRPVAS,,,1,5
+5149,ATSRTLSYY,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+5200,ATVQGQNLK,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+5316,AVFDRKSDAK,"Epstein-Barr nuclear antigen 4 (UniProt:P03203)","Human herpesvirus 4 (Epstein Barr virus)",2,2
+6435,CINGVCWTV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",3,7
+6536,CLAGLLTMV,,,1,1
+6568,CLGGLLTMV,"Latent membrane protein 2 (UniProt:P13285)","Human herpesvirus 4 (Epstein Barr virus)",5,12
+6849,CPSQEPMSIYVY,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",2,2
+7121,CTDDNALAY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+7136,CTELKLSDY,"Nucleoprotein (UniProt:P03466)","Influenza A virus",2,2
+7291,CVNGSCFTV,"Neuraminidase (UniProt:P03468)","Influenza A virus",1,1
+7446,CYTWNQMNL,,,1,1
+10987,EAAGIGILTV,"Melanoma antigen recognized by T-cells 1 (UniProt:Q16655)","Homo sapiens (human)",7,17
+11804,EENLLDFVRF,"Epstein-Barr nuclear antigen 6 (UniProt:P03204)","Human herpesvirus 4 (Epstein Barr virus)",2,12
+12941,ELAGIGILTV,,,24,85
+13257,ELRRKMMYM,"Immediate early protein IE1 (UniProt:P13202)","Human herpesvirus 5 (Human cytomegalovirus)",2,2
+13564,ENPVVDFFKNIVTPR,,,1,1
+13572,ENPVVHFFKNIVTPR,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",5,16
+13701,EPLPQGQLTAY,"Lytic switch protein BZLF1 (UniProt:P03206)","Human herpesvirus 4 (Epstein Barr virus)",2,4
+14672,EVDPIGHLY,"Melanoma-associated antigen 3 (UniProt:P43357)","Homo sapiens (human)",1,3
+15061,EYLVSFGVW,"Capsid protein (UniProt:Q76R61)","Hepatitis B virus (Human hepatitis B virus)",1,1
+15501,FEDLRVLSF,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,4
+16156,FIAGLIAIV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+16501,FLAFVVFLL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,2
+16632,FLGRYMSAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+16737,FLLNKEMYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+16743,FLLPSLATV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+16779,FLNGSCGSV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+16786,FLNRFTTTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+16820,FLPRVFSAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+16833,FLPSDFFPSV,"External core antigen (UniProt:P0C767)","Hepatitis B virus (Human hepatitis B virus)",1,1
+16878,FLRGRAYGL,"Epstein-Barr nuclear antigen 3 (UniProt:P12977)","Human herpesvirus 4 (Epstein Barr virus)",10,95
+16972,FLWLLWPVT,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+16979,FLYALALLL,"Latent membrane protein 2 (UniProt:P13285)","Human herpesvirus 4 (Epstein Barr virus)",2,2
+18133,FVDGVPFVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,7
+18219,FVLAAVYRI,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+18316,FVVFLLVTL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+20354,GILGFVFTL,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",20,40
+20788,GLCTLVAML,"mRNA export factor ICP27 homolog (UniProt:Q04360)","Human herpesvirus 4 (Epstein Barr virus)",12,19
+21000,GLLHHAPSL,,,1,1
+21041,GLMWLSYFV,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+22818,GTSGSPIIDK,"Genome polyprotein (UniProt:P17763)","Dengue virus",1,11
+22820,GTSGSPIINR,"Genome polyprotein (UniProt:P17763)","Dengue virus",1,16
+22825,GTSGSPIVNR,"Genome polyprotein (UniProt:P17763)","Dengue virus",1,21
+23215,GVYDYLVST,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+23322,GYDQIMPKK,,,1,4
+23789,HFISNSWLM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+24525,HPVGDADYFEY,"Epstein-Barr nuclear antigen 1 (UniProt:P03211)","Human herpesvirus 4 (Epstein Barr virus)",2,15
+24536,HPVGEADYFEY,"Epstein-Barr nuclear antigen 1 (UniProt:P03211)","Human herpesvirus 4 (Epstein Barr virus)",4,39
+24761,HSKKKCDEI,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,3
+24762,HSKKKCDEL,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,11
+24769,HSKRKCDEL,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,1
+25662,IDRLITGRLQSLQTY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+26710,IITTDNTFV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+27008,ILDQVPFSV,,,1,2
+27065,ILGFVFTLT,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",1,1
+27078,ILGLPTQTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+27125,ILKEPVHGV,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+27469,IMDQVPFSV,,,4,6
+27943,IPLTEEAEL,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,2
+27944,IPLTTAAKL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+28050,IPRRNVATL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+28061,IPSINVHHY,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",6,18
+28087,IPTITQMNL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+28199,IQPGQTFSV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+28464,ISDYDYYRY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+28864,ITDQVPFSV,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",2,5
+29222,IVCPICSQK,"Protein E7 (UniProt:P03129)","Alphapapillomavirus 9",1,1
+29237,IVDTVSALV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+29377,IVNSVLLFL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+29466,IVTDFSVIK,"Epstein-Barr nuclear antigen 4 (UniProt:P03203)","Human herpesvirus 4 (Epstein Barr virus)",2,2
+29804,KAFSPEVIPMF,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,19
+31235,KIFGSLAFL,"Receptor tyrosine-protein kinase erbB-2 (UniProt:P04626)","Homo sapiens (human)",1,4
+31846,KLFIRQEEV,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,2
+31878,KLGEFYNQM,"Nucleoprotein (UniProt:P04665)","Influenza B virus (Influenza virus type B)",1,1
+31883,KLGGALQAK,"Immediate early protein IE1 (UniProt:P13202)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+32060,KLNVGDYFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+32068,KLPDDFMGC,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+32165,KLSGLGINAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+32183,KLSYGIATV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+32208,KLVALGINAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",3,12
+32238,KLVVLGINAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+32240,KLWAQCVQL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+33250,KRWIILGLNK,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,4
+33667,KTFPPTEPK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+33915,KTWGQYWQV,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",2,5
+34095,KVLEYVIKV,"Melanoma-associated antigen 6 (UniProt:P43360)","Homo sapiens (human)",1,1
+34615,KYTSFPWL,"Protein P (UniProt:Q69028)","Hepatitis B virus (Human hepatitis B virus)",1,1
+36357,LGYGFVNYI,"ELAV-like protein 4 (UniProt:P26378)","Homo sapiens (human)",1,4
+36477,LIDFYLCFL,"ORF7b protein (UniProt:P0DTD8)",SARS-CoV2,1,2
+36724,LITGRLQSL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+37144,LLDDFVEII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+37153,LLDFVRFMGV,"Epstein-Barr nuclear antigen 6 (UniProt:P03204)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+37253,LLFGYAVYV,,,1,1
+37254,LLFGYPRYV,,,1,4
+37255,LLFGYPVAV,,,1,1
+37257,LLFGYPVYV,"Protein Tax-1 (UniProt:P14079)","Primate T-lymphotropic virus 1",20,170
+37279,LLFLVLIML,"ORF7b protein (UniProt:P0DTD8)",SARS-CoV2,1,2
+37286,LLFNILGGWV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,1
+37289,LLFNKVTLA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,3,7
+37364,LLGRNSFEV,"Cellular tumor antigen p53 (UniProt:P04637)","Homo sapiens (human)",1,2
+37468,LLLDDFVEI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+37473,LLLDRLNQL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,2,2
+37583,LLMPILTLT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+38043,LMIERFVSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+38458,LPEPLPQGQLTAY,"Lytic switch protein BZLF1 (UniProt:P03206)","Human herpesvirus 4 (Epstein Barr virus)",6,46
+38466,LPFDKPTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,9
+38467,LPFDKSTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,9
+38468,LPFDRTTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+38471,LPFEKSTVM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+38472,LPFERATIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+38573,LPLKMLNI,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+38698,LPRWYFYYL,"Nucleoprotein (UniProt:P33469)","Betacoronavirus 1",1,1
+38761,LPVNVAFEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+38874,LQLGFSTGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+38944,"LQPFPQPQLPY + DEAM(Q8)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,1
+38990,LQSLQTYVTQQLIRA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+39346,LSFKELLVY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+39576,LSPRWYFYY,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+39803,LTALRLCAY,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+39913,LTGHMLDMY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+40050,LTNDNTSRY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+40459,LVLSVNPYV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+40664,LWFHISCLTF,"Capsid protein (UniProt:Q76R61)","Hepatitis B virus (Human hepatitis B virus)",1,1
+40677,LWLLWPVTL,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,3
+41919,MLDLQPETT,"Protein E7 (UniProt:P03129)","Alphapapillomavirus 9",1,1
+42013,MLNIPSINV,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+42093,MLWCKDGHV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+42094,MLWGYLQYV,"Serine/threonine-protein kinase TEL1 (UniProt:P38110)","Saccharomyces cerevisiae (baker's yeast)",1,3
+42128,MMISAGFSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+42260,MPASWVMRI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+42300,MPNMLRIMA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+44814,NLNESLIDL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+44920,NLVPMVATV,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",24,51
+45000,NMLRIMASL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+45001,NMLSTVLGV,"RNA-directed RNA polymerase catalytic subunit (UniProt:P03431)","Influenza A virus",1,1
+45043,NMYAMMIARFKMFPEVKEKG,"Glutamate decarboxylase 2 (UniProt:Q05329)","Homo sapiens (human)",1,2
+45513,NPVVHFFKNIVTPRT,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,1
+46172,NTLTLAVPY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+48237,PKYVKQNTLKLAT,"Hemagglutinin (UniProt:P03452)","Influenza A virus",6,8
+48247,PKYVKQNTLKLRT,,,1,3
+48545,PMDSTVKNY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+49440,PSMGRDIKVQFQSGG,"Diacylglycerol acyltransferase/mycolyltransferase Ag85B (UniProt:P9WQP1)","Mycobacterium tuberculosis",1,1
+51089,QIKVRVDMV,"Immediate early protein IE1 (UniProt:P13202)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+51375,QLIPCMDVV,"Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,1
+51513,"QLQPFPQPQLPY + DEAM(Q9)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",2,6
+51946,QPRAPIRPI,"Epstein-Barr nuclear antigen 6 (UniProt:P03204)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+52886,QYDPVAALF,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",3,3
+52953,QYIKWPWYVW,"Spike glycoprotein (UniProt:P59594)",SARS-CoV1,1,1
+53128,RAKFKQLL,"Lytic switch protein BZLF1 (UniProt:P03206)","Human herpesvirus 4 (Epstein Barr virus)",2,3
+53809,RFYKTLRAEQASQ,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,4
+54490,RLCAYCCNI,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+54507,RLDKVEAEV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+54680,RLNEVAKNL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+54690,RLNQLESKV,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+54725,RLQSLQTYV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,3,12
+54728,RLRAEAQVK,"Epstein-Barr nuclear antigen 3 (UniProt:P12977)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+54882,RMFPNAPYL,"Wilms tumor protein (UniProt:P19544)","Homo sapiens (human)",4,4
+55132,RPDTRYVLM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+55169,RPHERNGFTV,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+55170,RPHERNGFTVL,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",3,3
+55252,RPPIFIRRL,"Epstein-Barr nuclear antigen 3 (UniProt:P12977)","Human herpesvirus 4 (Epstein Barr virus)",5,13
+55320,RPRGEVRFL,"Tegument protein VP22 (UniProt:P89468)","Human herpesvirus 2",1,3
+55444,RQLLFVVEV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,12
+55796,RSALILRGSVAHKSC,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+56390,RVRAYTYSK,"Replication and transcription activator (UniProt:P03209)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+56620,RYPLTFGWCF,"Protein Nef (UniProt:P04601)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",3,13
+56634,RYRIGNYKL,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,2,2
+56651,RYSIFFDYM,"Epstein-Barr nuclear antigen 3 (UniProt:P12977)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+58388,SHLVEALYLVCGERG,"Insulin (UniProt:P01308)","Homo sapiens (human)",4,10
+58547,SIIGRLLEV,"Serine/threonine-protein phosphatase PP1-alpha catalytic subunit (UniProt:P62136)","Homo sapiens (human)",1,1
+58730,SIVAYTMSL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+59276,SLLMWITQA,,,1,2
+59278,SLLMWITQC,"Cancer/testis antigen 1 (UniProt:P78358)","Homo sapiens (human)",13,139
+59283,SLLMWITQV,,,7,11
+59312,SLLSVLLSM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+59388,SLPITVYYA,"Envelope glycoprotein D (UniProt:Q69091)","Human herpesvirus 1",1,1
+59613,SLYNTVATL,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,2
+59776,SMWALVISV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+59778,SMWSFNPET,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+60242,SPRWYFYYL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,5,27
+60344,SPYNSQNAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+61021,SSGDATTAY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+62214,SVLLFLAFV,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+62799,TAAQAAVVRFQEAAN,"ESAT-6-like protein EsxB (UniProt:P9WNK5)","Mycobacterium tuberculosis",1,1
+63762,TFTYASALW,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+64320,TIHDIILECV,"Protein E6 (UniProt:P03126)","Alphapapillomavirus 9",1,3
+64709,TLACFVLAA,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+64850,TLIGDCATV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+64955,TLMNVITLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+65176,TMADLVYAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,11
+65748,TPRVTGGGAM,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",6,7
+66956,TVAYFNMVY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+67315,TYASALWEI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+67349,TYGPVFMCL,"Latent membrane protein 2 (UniProt:P13285)","Human herpesvirus 4 (Epstein Barr virus)",2,3
+67392,TYNAELLVLLENERT,"Hemagglutinin (UniProt:P03452)","Influenza A virus",1,1
+68846,VHFFKNIVTPRTP,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",2,2
+69392,VLAWLYAAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+69452,VLEETSVML,"Immediate early protein IE1 (UniProt:P13202)","Human herpesvirus 5 (Human cytomegalovirus)",2,3
+69591,VLLFLAFVV,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,2
+69646,VLMGGVPGVE,"Alanine dehydrogenase (UniProt:P9WQB1)","Mycobacterium tuberculosis",1,1
+69657,VLNDILSRL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+69716,VLQAVGACV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+69758,VLSFCAFAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+69850,VLWAHGFEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+69921,VMAPRTLIL,"Protein UL40 (UniProt:P16780)","Human herpesvirus 5 (Human cytomegalovirus)",2,4
+69922,VMAPRTLVL,,,1,2
+69929,VMCGGSLYV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+70898,VSDGGPNLY,"RNA-directed RNA polymerase catalytic subunit (UniProt:P03431)","Influenza A virus",1,1
+70932,VSFIEFVGW,"Epstein-Barr nuclear antigen 4 (UniProt:P03203)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+71290,VTEHDTLLY,"DNA polymerase processivity factor (UniProt:P16790)","Human herpesvirus 5 (Human cytomegalovirus)",2,2
+71635,VVDKYFDCY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+71663,VVFLHVTYV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+71668,VVGAVGVGK,,,2,53
+72048,VYIGDPAQL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,3,6
+72759,WLLWPVTLA,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+72766,WLPTGTLLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+72794,WLSLLVPFV,"Large envelope protein (UniProt:Q76R62)","Hepatitis B virus (Human hepatitis B virus)",1,1
+74180,YIDDVVLGA,"Protein P (UniProt:Q69028)","Hepatitis B virus (Human hepatitis B virus)",1,1
+74593,YLDAYNMMI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+74638,YLEPGPVTA,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",3,8
+74641,YLEPGPVTV,,,1,6
+74774,YLLEMLWRL,"Latent membrane protein 1 (UniProt:P03230)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+74850,YLNTLTLAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+75040,YMDDVVLGA,"Protein P (UniProt:Q69028)","Hepatitis B virus (Human hepatitis B virus)",1,1
+75718,YSEHPTFTSQY,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",3,6
+76120,YTMADLVYA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+76156,YTPSKLIEY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+76245,YVDDVVLGA,"Protein P (UniProt:Q69028)","Hepatitis B virus (Human hepatitis B virus)",1,1
+76266,YVFCTVNAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+76317,YVKQNTLKL,"Hemagglutinin (UniProt:P03452)","Influenza A virus",1,1
+76333,YVLDHLIVV,"Replication and transcription activator (UniProt:P03209)","Human herpesvirus 4 (Epstein Barr virus)",3,3
+76599,YYRYNLPTM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+79835,GELIGILNAAKVPAD,,,1,1
+79836,GELIGTLNAAKVPAD,"Triosephosphate isomerase (UniProt:P60174)","Homo sapiens (human)",1,3
+95091,GVYDGREHTV,"Melanoma-associated antigen 4 (UniProt:P43358)","Homo sapiens (human)",1,2
+97298,FEDLRVSSF,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,2
+97466,LPFDKTTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,9
+97467,LPFEKSTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,8
+98491,SVYGDTLEK,"Protein E6 (UniProt:P06463)","Alphapapillomavirus 7",1,1
+98690,ALGIGILTV,,,1,2
+100124,HSRKKCDEL,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,3
+100725,ALWMRLLPL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+101067,NFFRMVISNPAAT,"Glutamate decarboxylase 2 (UniProt:Q05329)","Homo sapiens (human)",1,2
+101199,RLLCALTSL,"Glucose-6-phosphatase 2 (UniProt:Q9NQR9)","Homo sapiens (human)",1,1
+102046,RYPLTFGW,"Protein Nef (UniProt:P04601)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,6
+102104,TAFTIPSI,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,4
+103041,ALWGPDPAAA,"Insulin (UniProt:P01308)","Homo sapiens (human)",5,26
+103557,RLLPLLALL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+103705,VLFGLGFAI,"Glucose-6-phosphatase 2 (UniProt:Q9NQR9)","Homo sapiens (human)",4,15
+103728,WGPDPAAA,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+103804,ALYLVCGERG,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+103868,EALYLVCGERGFFYT,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,3
+103926,GIVEQCCTSICSLYQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,3
+103968,HLCGSHLVEALYLVC,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+103970,HLVEALYLVCG,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+104030,LCGSHLVEALYLVCGER,"Insulin, isoform 2 (UniProt:F8WCM5)","Homo sapiens (human)",1,3
+104062,LVEALYLVCGERGFF,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+104195,QCCTSICSLYQLENY,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+104248,SHLVEALYLV,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+104325,VEALYLVCGERGFFY,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+104359,YLVCGERGFF,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+104361,YLVCGERGFFYTPKT,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,8
+104511,GSLQPLALEGSLQKRGIV,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,16
+105950,LWMRLLPLL,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,7
+106063,RGFFYTPKT,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+106399,ERGFFYTPK,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+106658,MSQIMYNYPAMMAHA,"ESAT-6-like protein EsxR (UniProt:P9WNI9)","Mycobacterium tuberculosis",1,1
+108277,ALWALPHAA,"Major viral transcription factor ICP4 homolog (UniProt:P09310)","Human herpesvirus 3 (Varicella-zoster virus)",1,3
+109116,"GIAGFKGEQGPKGEP + HYL(P15)","Collagen alpha-1(II) chain (UniProt:P02458)","Homo sapiens (human)",1,3
+109654,"PFPQPQLPY + DEAM(Q6)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,8
+111191,DENPVVHFFKNIVTP,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,1
+111384,GTTLEQQYNK,"Protein E6 (UniProt:P03126)","Alphapapillomavirus 9",1,6
+111403,HTMLCMCCK,"Protein E7 (UniProt:P06788)","Alphapapillomavirus 7",1,1
+114078,"beryllium atom",,,2,3
+114736,ANPVVHFFKNIVTPR,,,1,1
+114782,EAPVVHFFKNIVTPR,,,1,1
+114794,ENAVVHFFKNIVTPR,,,1,1
+114796,ENPAVHFFKNIVTPR,,,1,1
+114797,ENPVAHFFKNIVTPR,,,1,1
+114800,ENPVVHFFKAIVTPR,,,1,1
+114801,ENPVVHFFKNAVTPR,,,1,1
+114803,ENPVVHFFKNIVAPR,,,1,1
+114805,ENPVVHFFKNIVTAR,,,1,1
+114806,ENPVVHFFKNIVTP,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,34
+114807,ENPVVHFFKNIVTPA,,,1,1
+114811,ENPVVHFFRNIVTPR,,,1,1
+115182,ALWGPDPAAAF,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+115681,ALAVLHFYPDKGAKN,"N-acetylmuramoyl-L-alanine amidase CwlH (UniProt:P54450)","Bacillus subtilis",1,1
+115706,DFARVHFISALHGSG,"GTPase Der (UniProt:P0A6P5)","Escherichia coli",1,2
+115926,QRCRVHFLRNVLAQV,"Mutator family transposase (UniProt:Q741E1)","Mycobacterium avium",1,1
+115927,QRCRVHFMRNLYTAV,"Mutator family transposase (UniProt:I6XH73)","Mycobacterium tuberculosis",1,1
+116120,LPFDKATIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,8
+116123,LPFDKSTVM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,8
+116127,LPFDRPTIM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+116136,LPFERATVM,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+116154,PVVHFFKNIVTPRTP,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,1
+116873,diclofenac,,,1,1
+117460,DRLLMLFAKDVVSRN,"Phosphomannomutase/phosphoglucomutase (UniProt:P26276)","Pseudomonas aeruginosa",1,2
+117491,ENPVVHYFKNIVTPR,,,1,1
+120241,TLGVLVPHV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+120285,VLGSLAATV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+120287,VLLSVLQQL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+121572,LLWNGPMAV,"Genome polyprotein (UniProt:P03314)","Yellow fever virus (Flavivirus febricis)",4,4
+124997,CGSHLVEALYL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+125107,IVEQCCTSI,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+127246,TSTLQEQIGW,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,6
+128642,FLTLRHKRPKAKYIIWPRID,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,1
+128832,GVQSSKCMHLIQQGARVGRI,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,1
+129591,PKAKYIIWPRIDQKSCFKSM,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,1
+130542,"LLFGKPVYV + SCM(K5)",,,1,5
+130694,1-O-(alpha-D-galactosyl)-N-hexacosanoylphytosphingosine,,,6,10
+131070,SLFNTVATL,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+131176,"glucose 6-monomycolate",,,1,5
+131807,5-hydroxydiclofenac,,,1,1
+132951,"beryllium sulfate",,,1,1
+133253,NLVGMVATV,,,1,1
+133259,NLVPMVASV,,,1,1
+135398,phosphatidylglycerol,,,1,3
+135855,NLVAMVATV,,,2,2
+135856,NLVPMVAAV,,,1,1
+135858,NLVPQVATV,,,1,1
+135860,NLVPTVATV,,,1,1
+135861,NLVPVVATV,,,1,1
+137260,"PQPQLPYPQ + DEAM(Q4)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",2,8
+137483,[3)alpha-L-Rhap-(1->2)-alpha-D-Galp-(1->3)-alpha-D-GlcpNAc-(1->3)-alpha-L-Rhap(1->]4,,,1,2
+139419,1-(3-O-sulfo-beta-D-galactosyl)-N-[(15Z)-tetracos-15-enoyl]sphingosine,,,1,1
+140422,"keto mycolic acid",,,1,5
+140423,"alpha-mycolic acid",,,1,4
+140424,"methoxy mycolic acid",,,1,5
+140986,AYAQKIFKI,"Immediate early protein IE1 (UniProt:P13202)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+142137,EEYLQAFTY,"ATP-binding cassette sub-family D member 3 (UniProt:P28288)","Homo sapiens (human)",1,9
+142196,KCMHLIQQGARVGRIDAFVQ,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,1
+142305,TAGFEPVVIENVLEGDELRT,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,4
+144889,FLRGRFYGL,,,1,1
+144976,VMATRRNVL,"Uncharacterized protein Rv1518 (UniProt:P9WLV9)","Mycobacterium tuberculosis",1,1
+144978,VMTTVLATL,"Uncharacterized protein Rv1734c (UniProt:P9WLS7)","Mycobacterium tuberculosis",1,1
+145826,IHSLLDEGKQSLTKL,"6 kDa early secretory antigenic target (UniProt:P9WNK7)","Mycobacterium tuberculosis",1,6
+148091,"PQPQLPYPQPQ + DEAM(Q4, Q11)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,5
+153887,SHLVEALYLVCGEEG,,,1,2
+156273,EEYLKAWTF,,,1,9
+156882,GVYATRSSAVRLR,"Vimentin (UniProt:P08670)","Homo sapiens (human)",1,1
+158963,LLYGFVNYI,,,1,1
+158964,LLYGFVNYV,,,1,1
+159255,"mycolic acid",,,1,3
+159292,PLALEGSLQK,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+161181,FSWGAEGQRPGFG,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,10
+161506,"1,2-dioleoyl-3-alpha-D-galactosyl-sn-glycerol",,,1,1
+161641,IQGNVTSIHSLLDEG,"6 kDa early secretory antigenic target (UniProt:P9WNK7)","Mycobacterium tuberculosis",1,4
+161666,QAAVVRFQEAANKQK,"ESAT-6-like protein EsxB (UniProt:P9WNK5)","Mycobacterium tuberculosis",1,1
+164047,"1-O-(alpha-D-glucopyranosyl)-N-icosa-11,14-dienoylphytosphingosine",,,1,1
+164048,1-O-(3-deoxy-alpha-D-galactopyranosyl)-N-hexacosanoylsphinganine,,,1,1
+164049,1-O-(4-deoxy-alpha-D-xylo-hexopyranosyl)-N-hexacosanoylsphinganine,,,1,2
+167724,ALGGLLTMV,,,1,1
+167728,CLGALLTMV,,,1,1
+167729,CLGGLATMV,,,1,1
+167730,CLGGLLAMV,,,1,1
+170038,VVTGVLVYL,"Proton-coupled zinc antiporter SLC30A8 (UniProt:Q8IWU4)","Homo sapiens (human)",1,1
+172188,LLSLFSLWL,"Proton-coupled zinc antiporter SLC30A8 (UniProt:Q8IWU4)","Homo sapiens (human)",1,1
+173562,VAANIVLTV,"Proton-coupled zinc antiporter SLC30A8 (UniProt:Q8IWU4)","Homo sapiens (human)",1,23
+173948,MGRDIKVQFQSGGAN,"Diacylglycerol acyltransferase/mycolyltransferase Ag85A (UniProt:P9WQP3)","Mycobacterium tuberculosis",1,1
+174021,VPSPSMGRDIKVQFQ,"Diacylglycerol acyltransferase/mycolyltransferase Ag85B (UniProt:P9WQP1)","Mycobacterium tuberculosis",1,1
+174109,FLRGRAFGL,,,1,4
+174111,FLRGRAYVL,,,1,3
+174298,TLRGRAYGL,,,1,3
+174327,YLRGRAYGL,,,1,3
+174367,AEDLQVGQVE,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,3
+174376,AGSLQPLAL,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,3
+174377,AGSLQPLALE,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,3
+174385,ALWGPDPAA,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+174496,GAGSLQPLAL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,3
+174585,IVEQCCTSIC,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+174686,PLALEGSLQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+174694,QCCTSICSL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+174706,QPLALEGSL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,3
+174707,QPLALEGSLQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+174710,QVELGGGPG,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,3
+174743,SLQPLALEGS,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+174783,VCGERGFFY,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+174788,VELGGGPGA,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,4
+174790,VEQCCTSIC,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+174826,YLVCGERGF,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+174842,carbamazepine,,,1,9
+175795,FATGIGIITV,,,1,6
+175797,FLTGIGIITV,,,1,5
+177958,RQWGPDPAAV,,,1,1
+178095,7-hydroxy-6-methyl-8-(1-D-ribityl)lumazine,,,3,4
+178096,"6,7-dimethyl-8-(1-D-ribityl)lumazine",,,1,1
+178097,"reduced 6-(hydroxymethyl)-8-(1-D-ribityl)lumazine",,,4,9
+178098,6-formylpterin,,,2,5
+178159,"SGQGSFQPSQQNP + DEAM(Q3, Q11)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,2
+179254,MHVSFVMAYPEMLAA,"PE family protein PE13 (UniProt:Q79FR3)","Mycobacterium tuberculosis",1,1
+179276,MSQIMYNYPAMRAHA,"ESAT-6-like protein EsxR (UniProt:P9WNI9)","Mycobacterium tuberculosis",1,1
+179351,PSPSMGRDIKVQFQS,"Diacylglycerol acyltransferase/mycolyltransferase Ag85A (UniProt:P9WQP3)","Mycobacterium tuberculosis",1,1
+179398,QVPSASMGRDIKVQF,"Diacylglycerol acyltransferase/mycolyltransferase Ag85C (UniProt:P9WQN9)","Mycobacterium tuberculosis",1,1
+179446,RQQEQQFKRELRNLPQQCGL,"Ara h 2 (UniProt:Q6PSU2)","Arachis hypogaea (peanut)",1,1
+179628,VHVSFVMAYPEMLAA,"PE family protein PE13 (UniProt:Q79FR3)","Mycobacterium tuberculosis",1,1
+179782,FFAGGIGIRTI,,,1,1
+179784,FLAGGIGIRTL,,,1,1
+179791,FWLLGAWAL,,,1,1
+179792,FWLLPAWAL,,,1,1
+179820,ILAKFLHWL,"Telomerase reverse transcriptase (UniProt:O14746)","Homo sapiens (human)",2,3
+179897,RVRFFFPSL,"Melanoma-associated antigen 1 (UniProt:P43355)","Homo sapiens (human)",1,3
+179924,WLLPAWGV,,,1,1
+179925,WLLPTWGV,,,1,1
+180975,GDPDMMRYVDKYGQL,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,9
+180978,HFFSVGGEALELQGV,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,6
+180979,HLRGFSKSISISDTF,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,6
+180986,ITNTATTVLLDEFGV,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,3
+180990,LNEDLTCGNILMWEA,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,6
+180992,MAQVEEVRVFEGTE,"Other JC polyomavirus (Human polyomavirus (type JC)) protein","JC polyomavirus (Human polyomavirus (type JC))",1,9
+180994,NFDMLPCYSVARIPL,"Other JC polyomavirus (Human polyomavirus (type JC)) protein","JC polyomavirus (Human polyomavirus (type JC))",1,6
+180995,NKDMLPCYSVARIPL,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,6
+181002,NRDMLPCYSVARIPL,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,6
+181031,VDSITEVECFLTPEM,"Major capsid protein VP1 (UniProt:P03089)","JC polyomavirus (Human polyomavirus (type JC))",1,3
+181167,1-elaidoyl-sn-glycero-3-phosphocholine,,,1,1
+181194,DATYQRTRALVR,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+181888,AIALNLPKRI,,,1,2
+181894,DIALNLPRRI,,,1,2
+181895,DIFMNIPKRI,,,1,2
+181912,HIIVNIPKRI,,,1,2
+181913,HIRCNIPKRI,,,1,6
+181914,HISINLPKRI,,,1,2
+181915,HISPNIPKRI,,,1,2
+181930,LIHVNIPKKI,,,1,2
+181933,MINLNLPKYI,,,1,2
+181935,NIRCNIPKKI,,,1,2
+181957,VISINLPKFI,,,1,2
+181959,WIHWNIPKRI,,,1,2
+181960,WIRVNIPKRI,,,1,5
+181961,WISLNLPRRI,,,1,2
+181981,AIMEKNIVL,"Non-structural protein 1 (UniProt:P03496)","Influenza A virus",1,1
+181983,CTELKLNDY,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+184136,KRWIIMGLNK,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,4
+184429,LLFGFPVYV,,,2,8
+186689,"LLFGFAVYV + SCM(F5)",,,1,1
+186690,"LLFGFPVFV + SCM(F5)",,,1,1
+186691,"LLFGFPVYV + SCM(F5)",,,1,8
+186692,LLFGYPVFV,,,1,1
+186966,"6-deoxy-D-glucos-6-yl corynomycolate",,,1,9
+187036,"oleic acid",,,1,1
+187038,1-[(9Z)-octadec-9-enoyl]-2-hexadecanoyl-sn-glycero-3-phospho-(1'-sn-glycerol),,,1,5
+189020,beta-D-galactosyl-N-(tetracosanoyl)sphingosine,,,1,1
+189277,SLFNTIAVL,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+189288,SLYNTIATL,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+189401,GLYDGMEHL,"Melanoma-associated antigen 10 (UniProt:P43363)","Homo sapiens (human)",3,6
+189944,ALAGIGILTV,,,2,3
+189960,ELAAIGILTV,,,2,3
+189961,ELAGIAILTV,,,2,2
+189962,ELAGIGALTV,,,1,1
+189963,ELAGIGIATV,,,2,2
+189964,ELAGIGILAV,,,2,3
+190230,FVDDLFETIF,"Plexin-A4 (UniProt:Q9HCM2)","Homo sapiens (human)",1,2
+190494,MEVTPSGTWL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+190980,SLYNTVATLY,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+191036,"N-hexacosanoylisoglobotriaosyl ceramide",,,1,1
+193060,RFPLTFGWCF,"Protein Nef (UniProt:P04601)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",2,18
+193071,RYPLTLGWCF,"Protein Nef (UniProt:P04601)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,3
+193436,ETALALLLL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+193567,TALALLLLD,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+193601,"N(6)-[(2-amino-4-oxo-3,4-dihydropteridin-6-yl)methyl]-D-lysine",,,2,4
+194224,NLFNRYPAL,"Plastin-2 (UniProt:P13796)","Homo sapiens (human)",1,1
+194442,TPSVSSSISSL,"Small capsomere-interacting protein (UniProt:P14348)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+194671,1-O-[6-O-(1-naphthylcarbamoyl)-alpha-D-galactopyranosyl]-N-hexacosanoylphytosphingosine,,,1,1
+194935,ILAAFLHWL,,,1,1
+194936,ILAKFAHWL,,,1,1
+201373,AMERNAGSGIIISDT,"Hemagglutinin (UniProt:P03452)","Influenza A virus",2,6
+207788,ERNAGSGIIISDT,"Hemagglutinin (UniProt:P03452)","Influenza A virus",1,2
+210319,GNHAAGILTLGKRRS,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+214177,LHGAGNHAAGILTLG,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+214728,LRLATGLRNIPSIQS,"Hemagglutinin (UniProt:P03452)","Influenza A virus",1,1
+214963,LTDEQRAAALEKAAA,"Integration host factor (UniProt:P71658)","Mycobacterium tuberculosis",1,2
+216258,PALVAANRNQLLSLV,"Uncharacterized PPE family protein PPE13 (UniProt:P9WI35)","Mycobacterium tuberculosis",1,2
+222599,"GVYATRSSAVRLR + CITR(R6)","Vimentin (UniProt:P08670)","Homo sapiens (human)",1,1
+224547,6-(hydroxymethyl)-8-(1-D-ribityl)lumazine,,,1,4
+224554,GCK127,,,1,1
+224555,GCK152,,,1,1
+224560,"C32 phosphomycoketide",,,1,2
+225927,"6-deoxy-D-glucos-6-yl (2R,3R)-corynomycolate",,,1,1
+226589,"FPQPQQPFPWQP + DEAM(Q5)","Tri a 19 (UniProt:Q402I5)","Triticum aestivum (Canadian hard winter wheat)",2,6
+226653,"PQQPFPQPQQPFP + DEAM(Q9)","Tri a 19 (UniProt:Q402I5)","Triticum aestivum (Canadian hard winter wheat)",2,4
+226658,"QQYPSGQGSFQPSQQNPQ + DEAM(Q7, Q15)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,1
+226868,"LQPFPQPQLPYPQ + DEAM(Q8)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,5
+226882,"PFPQPQLPYPQPQ + DEAM(Q6)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,10
+226915,5-(2-oxopropylideneamino)-6-D-ribitylaminouracil,,,7,46
+226916,5-(2-oxoethylideneamino)-6-D-ribitylaminouracil,,,1,1
+226917,5-amino-6-(D-ribitylamino)uracil,,,2,4
+227777,HPVAEADYFEY,"Epstein-Barr nuclear antigen 1 (UniProt:P03211)","Human herpesvirus 4 (Epstein Barr virus)",2,20
+227778,HPVGQADYFEY,"Epstein-Barr nuclear antigen 1 (UniProt:P03211)","Human herpesvirus 4 (Epstein Barr virus)",2,19
+227867,alpha-D-galactosyl-N-[(4Z)-9-(2-decylcyclopropyl)non-4-enoyl]phytosphingosine,,,1,1
+229215,FWIDLFETIG,,,2,5
+229960,AAQNVHFWKALNQL,"Uncharacterized protein (UniProt:K2SQG2)","Macrophomina phaseolina (charcoal rot)",1,1
+229961,AAQRIHFFKNLSLL,"DoxX family protein (UniProt:L8DI90)","Rhodococcus sp. AW25M09",1,1
+229968,ARSVFHFFRGTALL,"DUF2252 domain-containing protein (UniProt:H6RKR9)","Blastococcus saxobsidens",1,1
+229979,DVSKVHFFKGNGQT,"sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC (UniProt:A0A4V2IIM4)","Rhizobium leguminosarum",1,1
+229983,ENAVVHFFRSLVSS,"Myelin basic protein (UniProt:A0A3B3I114)","Oryzias latipes (Japanese rice fish)",1,1
+229985,FGVKIHFFKQRNSL,"UDP-N-acetylglucosamine diphosphorylase (UniProt:I6ZLG2)","Encephalitozoon romaleae",1,1
+229987,FLKKFHFLKGATLC,"Protein GREB1 (UniProt:Q4ZG55)","Homo sapiens (human)",1,1
+229989,GAHCIHFFKSAVCR,"Uncharacterized protein (Fragment) (UniProt:D8UHB2)","Volvox carteri",1,1
+229993,HENVVHFFKDGELV,"Glycosyl transferase family 1 domain-containing protein (UniProt:Q5WHX5)","Shouchella clausii",1,1
+229996,HMLSFHFWKSRGQT,"Uncharacterized protein C4orf54 (UniProt:D6RIA3)","Homo sapiens (human)",1,1
+229997,HRAKLHFFKDENLK,"Aldo/keto reductase (UniProt:A0A7U3ZRD0)","Runella slithyformis",1,1
+229999,IEAAIHFYKGLAVY,"Component of the TOM (Translocase of outer membrane) complex (UniProt:W1Q7Z5)","Ogataea parapolymorpha",1,1
+230000,IIPAFHFLKSEKGL,"Androglobin (UniProt:Q8N7X0)","Homo sapiens (human)",1,1
+230007,LESVVHFLRGQKVT,"CBM21 domain-containing protein (UniProt:K1VE17)","Trichosporon asahii",1,1
+230009,LNKNIHFFKNLPLP,"Excinuclease ABC C subunit domain protein (UniProt:F1TIN3)","Ruminiclostridium papyrosolvens",1,1
+230017,MHGNWHFFRNFLSN,"Phosphoenolpyruvate carboxylase (UniProt:E4NG02)","Kitasatospora setae",1,1
+230020,MNASIHFLKALETY,"Arylacetamide deacetylase-like 4 (UniProt:Q5VUY2)","Homo sapiens (human)",1,1
+230021,NANVLHFLKNIICQ,"Dynein axonemal heavy chain 10 (UniProt:Q8IVF4)","Homo sapiens (human)",1,1
+230026,NPQVIHFFKSLDLL,"uracil-DNA glycosylase (UniProt:D3HT40)","Legionella longbeachae",1,1
+230042,RLSVVHFLRANAVS,"Protein GerPE required for proper assembly of spore coat mutations lead to super-dormant spore (UniProt:A0A178TD35)","Anoxybacillus flavithermus",1,1
+230043,RTQRIHFFKGDKVW,"Matrix metallopeptidase 24 (UniProt:G1SZL1)","Oryctolagus cuniculus (rabbit)",1,1
+230045,SANNIHFMRQSEIG,"Teneurin-1 (UniProt:Q9UKZ4)","Homo sapiens (human)",1,1
+230047,SEGSIHFFKADLLS,"Putative dehydrogenase (UniProt:Q6FDV9)","Acinetobacter baylyi",1,1
+230051,SLGNIHFFKSEVVR,"Polysaccharide biosynthesis protein (UniProt:A6Q6E9)","Sulfurovum sp. NBC37-1",1,1
+230057,SSARLHFFRALPHP,"Uncharacterized protein (UniProt:L7U7J0)","Myxococcus stipitatus",1,1
+230058,STARVHFWRSRSSE,"Uncharacterized protein (UniProt:R1DQ00)","Emiliania huxleyi",1,1
+230059,SVGKIHFFKMEVVS,"Uncharacterized protein (UniProt:D8SWK3)","Selaginella moellendorffii",1,1
+230060,SVSVIHFFKAPAAI,"TPR repeat-containing thioredoxin TTL2 (UniProt:F4IXE4)","Arabidopsis thaliana (mouse-ear cress)",1,1
+230071,VFGNVHFFKNTGSA,"VCBS (UniProt:Q3ASL6)","Chlorobium chlorochromatii (epibiont of the phototrophic consortium \"Chlorochromatium aggregatum\")",1,1
+230081,VSGYVHFFRGLPLL,"Glutamate/aspartate transport system permease protein GltK (UniProt:S0G235)","Desulfotignum phosphitoxidans",1,1
+230084,YKHKIHFFKNEVLE,"RING-type E3 ubiquitin transferase (UniProt:F4PYJ3)","Cavenderia fasciculata",1,1
+232049,LLGATCMFV,"G1/S-specific cyclin-D1 (UniProt:P24385)","Homo sapiens (human)",1,1
+233318,1-O-(alpha-D-galactosyl)-N-[(15Z)-tetracos-15-enoyl]phytosphingosine,,,1,2
+234022,ACPKYVKQNTLKLATG,"Hemagglutinin (UniProt:P03452)","Influenza A virus",1,1
+237825,LLFGLALIEV,"Melanoma-associated antigen C2 (UniProt:Q9UBF1)","Homo sapiens (human)",1,1
+238048,N(2)-acetyl-6-formylpterin,,,3,14
+239223,squalene,,,1,2
+239226,1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphocholine,,,2,3
+239233,"lauryl palmitoleate",,,1,2
+239234,"methyl palmitoleate",,,1,2
+239235,"palmitoleyl alcohol",,,1,1
+239236,"palmitoleic acid",,,1,1
+239237,"1,2-dioleoyl-3-palmitoylglycerol",,,1,1
+241570,1-stearoyl-2-oleoyl-sn-glycero-3-phosphocholine,,,1,1
+241571,1-O-oleoyl-sn-glycero-3-phosphocholine,,,1,2
+244214,HTGREIVDLMCHAT,"Genome polyprotein (UniProt:P17763)","Dengue virus",1,1
+419610,ENPVVHFFKDIVTPR,,,1,1
+420119,RQLVHFVRDFAQL,"Tripartite terminase subunit 3 (UniProt:P04295)","Human herpesvirus 1",1,2
+420753,APSGEGSFQPSQENPQGS,,,1,3
+421324,LPEALPQGQLTAY,,,1,1
+421328,LPEPLPQGALTAY,,,1,2
+421329,LPEPLPQGQATAY,,,1,2
+422957,1-O-(alpha-D-galactopyranosyl)-N-[11-(4-fluorophenyl)undecanoyl]phytosphingosine,,,1,1
+423615,oxcarbazepine,,,1,5
+423616,"carbamazepine-10,11-epoxide",,,1,6
+451342,KASEKIFYV,"Protein SSX2 (UniProt:Q16385)","Homo sapiens (human)",1,3
+452461,ALSPVIPLI,"Histone-lysine N-methyltransferase 2D (UniProt:O14686)","Homo sapiens (human)",1,1
+456724,LVEALYLVCGEEG,,,1,5
+460208,VEELYLVAGEEGC,,,1,1
+460209,VEELYLVCGEEGG,,,1,1
+462848,"2-O-palmitoyl-2'-O-sulfo-3-O-[(2E,4S,6S,8S)-2,4,6,8-tetramethyltriacont-2-enoyl]-alpha,alpha-trehalose",,,1,1
+473138,VYGIRLEHF,"Kinetochore protein Nuf2 (UniProt:Q9BZD4)","Homo sapiens (human)",1,1
+486864,SVASTITGV,"Perilipin-2 (UniProt:Q99541)","Homo sapiens (human)",1,1
+501191,MSQIMYNYPAMLGHA,"ESAT-6-like protein EsxH (UniProt:P9WNK3)","Mycobacterium tuberculosis",1,1
+504015,LLIDLTSFLL,"Proton-coupled zinc antiporter SLC30A8 (UniProt:Q8IWU4)","Homo sapiens (human)",1,1
+505706,GQVELGGGNAVEVLK,"Two components:Insulin (UniProt:P01308) & Islet amyloid polypeptide (UniProt:P10997)","Homo sapiens (human)",2,2
+506954,LQVELGGGPGAGSLQ,,,1,1
+509159,YLYDRLLRI,"DNA replication complex GINS protein PSF1 (UniProt:Q14691)","Homo sapiens (human)",1,5
+509235,ESDPIVAQY,"Titin (UniProt:Q8WZ42)","Homo sapiens (human)",1,3
+530809,ALEPGPVTA,,,1,4
+532115,HLRMAGHSL,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+534528,YLEAGPVTA,,,1,5
+534530,YLEPGAVTA,,,1,3
+534531,YLEPGPATA,,,1,4
+534532,YLEPGPVAA,,,1,5
+538549,GILEFVFTL,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",1,2
+538552,GILGLVFTL,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",1,2
+538554,GIWGFVFTL,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",1,1
+544090,MEVDPIGHLY,"Melanoma-associated antigen 3 (UniProt:P43357)","Homo sapiens (human)",1,3
+545022,RYGSFSVTL,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",1,3
+548823,RTLNAWVKV,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,1
+549062,AENPVVHFFKNIATPR,,,1,1
+549134,ENPVVHFHKNIVTPR,,,1,1
+549135,ENPVVHFIKNIVTPR,,,1,1
+549136,ENPVVHFMKNIVTPR,,,1,1
+549137,ENPVVHFVKNIVTPR,,,1,1
+549138,ENPVVHFWKNIVTPR,,,1,1
+549139,ENPVVHFYKNIVTPR,,,1,1
+549140,ENPVVHGFKNIVTPR,,,1,1
+549141,ENPVVHMFKNIVTPR,,,1,1
+549142,ENPVVIFFKNIVTPR,,,1,1
+549143,ENPVVLFFKNIVTPR,,,1,1
+549144,ENPVVMFFKNIVTPR,,,1,1
+549145,ENPVVNFFKNIVTPR,,,1,1
+549146,ENPVVRFFKNIVTPR,,,1,1
+549147,ENPVVTFFKNIVTPR,,,1,1
+549148,ENPVVVFFKNIVTPR,,,1,1
+549149,ENPVVWFFKNIVTPR,,,1,1
+549266,WLKNKLIPEVKEKHEFLSRL,"Other Enterovirus B (Enterovirus EV-B) protein","Enterovirus B (Enterovirus EV-B)",1,2
+558006,AQWGPDPAAA,,,2,7
+558116,MVWGPDPLYV,"DUF5119 domain-containing protein (UniProt:I9W0P8)","Bacteroides fragilis",1,1
+558173,RQFGPDFPTI,,,1,1
+558174,RQFGPDWIVA,"NADPH-dependent butanol dehydrogenase (UniProt:C0D5Y6)","Enterocloster asparagiformis",1,1
+558212,YLGGPDFPTI,,,1,1
+558213,YQFGPDFPIA,,,1,1
+558548,APSGEGSFQPSQENPQ,,,1,1
+558566,AWCSDEALPLGS,"Integrin beta-3 (UniProt:P05106)","Homo sapiens (human)",2,9
+558569,AWCSDEALPPGS,"Integrin beta (UniProt:I3L4X8)","Homo sapiens (human)",1,3
+558643,GPQQSFPEQEA,,,1,1
+558769,QPQQSFPEQEA,,,1,1
+561440,ADSITEVECFLTPEM,,,1,1
+561594,VASITEVECFLTPEM,,,1,1
+561595,VDAITEVECFLTPEM,,,1,1
+561596,VDSATEVECFLTPEM,,,1,1
+561597,VDSIAEVECFLTPEM,,,1,1
+561598,VDSITAVECFLTPEM,,,1,1
+561599,VDSITEAECFLTPEM,,,1,1
+561600,VDSITEVEAFLTPEM,,,1,1
+561601,VDSITEVECALTPEM,,,1,1
+561602,VDSITEVECFATPEM,,,1,1
+561603,VDSITEVECFLAPEM,,,1,1
+561604,VDSITEVECFLTAEM,,,1,1
+561605,VDSITEVECFLTPAM,,,1,1
+561606,VDSITEVECFLTPEA,,,1,1
+563493,FAFGEPREL,"Melanoma-associated antigen C1 (UniProt:O60732)","Homo sapiens (human)",1,2
+566228,DRFYKTLRAEQASQEV,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,5
+566252,FQDYIKSYL,"Tyrosinase (UniProt:P14679)","Homo sapiens (human)",1,3
+566338,LNKIVRMYSPTSILD,"Gag polyprotein (UniProt:P04591)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,3
+579999,"(21E)-3-hydroxy-35-[(icosan-2-yl)oxy]-35-oxo-2-pentacosylpentatriacont-21-enoic acid",,,2,8
+580000,"glucose 6-monomycolate (C36)",,,1,1
+604401,GAGSLQPLALEGSLQKR,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+604493,KLKSLGLNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+604608,QLRSLGLNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+604609,QLRTLGLNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+604610,QLSSLGLNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+604611,QLTSLGLNAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,9
+606356,"MLYQHLLPL + OX(M1)","Other Homo sapiens (human) protein","Homo sapiens (human)",1,9
+606710,FLYNLLTRV,,,1,1
+606793,KLANPLPYT,,,1,1
+606794,KLMNIQQKL,,,1,1
+606815,LLSIIFFPA,,,1,1
+606843,MLGEQLFPL,,,1,1
+613393,5-methoxysalicylaldehyde,,,1,1
+613394,"2,4-diaminopteridine-6-carbaldehyde",,,1,1
+613395,2-hydroxy-1-naphthaldehyde,,,1,1
+613404,"3-formylsalicylic acid",,,1,1
+614093,ALYGSVPVL,"Neutral alpha-glucosidase AB (UniProt:Q14697)","Homo sapiens (human)",1,1
+631125,FLYNPLTRV,"Protein transport protein Sec24A (UniProt:O95486)","Homo sapiens (human)",1,1
+634847,MLGERLFPL,"Polyadenylate-binding protein 3 (UniProt:Q9H361)","Homo sapiens (human)",1,1
+695088,KLSALGINAV,"Genome polyprotein (UniProt:P27958)","Hepatitis C virus",1,1
+710995,ILNAMITKI,"HAUS augmin-like complex subunit 3 (UniProt:Q68CZ6)","Homo sapiens (human)",1,1
+733874,GTSGAPIVNR,,,1,7
+733875,GTSGSPIVAR,,,1,7
+735788,FRDYVDRFYKTLRAEQASQE,"Gag-Pol polyprotein (UniProt:P04585)","Human immunodeficiency virus 1 (human immunodeficiency virus 1 HIV-1)",1,8
+735828,FVGEFFTDV,"Glypican-3 (UniProt:P51654)","Homo sapiens (human)",1,1
+738081,"(2R)-2-[(1R)-1-hydroxy-16-{(1R,2S)-2-[(17R,18R)-17-methoxy-18-methylhexatriacontyl]cyclopropyl}hexadecyl]hexacosanoic acid",,,1,3
+738082,{1-O-hexadecanoyl-2-O-[(Z)-octadec-9-enoyl]-sn-glycero-3-phospho}serine,,,1,2
+738083,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphate,,,1,2
+738084,"1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phosphoethanolamine zwitterion",,,1,1
+738085,1-hexadecanoyl-2-(9Z-octadecenoyl)-sn-glycero-3-phospho-D-myo-inositol,,,2,3
+738312,alpha-galactosylceramide,,,1,7
+742497,APARLERRHSA,,,1,1
+742500,GEEDGAGGHSL,,,1,1
+742502,GQFLTPNSH,,,1,1
+742503,HQNPVTGLLL,,,1,1
+742510,RHDLPPYRVYL,,,1,1
+742511,RKTVRARSRTPSCRSRSHTPSRRRR,,,1,1
+742513,RVSTLRVSL,,,1,1
+742514,SWISDIRAGTAPLCRNHIKSSCSLI,,,1,1
+742515,SYMIMEIEL,,,1,1
+742517,TLWCSPIKV,,,2,2
+742518,VLLGVKLFGV,,,2,2
+742520,YHSIEWAI,,,1,1
+743175,"GGYRARPAKAAAT + CITR(R4, R6)","Fibrinogen beta chain (UniProt:P02675)","Homo sapiens (human)",1,1
+743176,"GGYRARPAKAAAT + CITR(R6)","Fibrinogen beta chain (UniProt:P02675)","Homo sapiens (human)",1,4
+745107,GIAARVKNWL,,,1,3
+745114,KEGIAARVKNW,,,1,3
+745123,PKYVKQNTLKLAR,,,1,3
+745135,WEAKPSRIL,,,1,3
+745589,HLVEELYLVAGEEGC,,,1,1
+745659,VEALYLVAGEE,,,1,1
+753263,LYPEFIASI,,,1,4
+753265,MLIGIPVYV,,,1,4
+753266,MVIGIPVYV,"E3 ubiquitin-protein ligase RNF19B (UniProt:Q6ZMZ0)","Homo sapiens (human)",1,3
+753300,AARGPHGGAASGL,,,1,1
+753306,APAGPHGGAASGL,,,1,1
+753310,APRGAHGGAASGL,,,1,1
+753311,APRGPAGGAASGL,,,1,1
+753312,APRGPHAGAASGL,,,1,1
+753314,APRGPHGGAAAGL,,,1,1
+753315,APRGPHGGAASAL,,,1,1
+753316,APRGPHGGAASGA,,,1,1
+753317,APRGPHGGAASGL,"Cancer/testis antigen 1 (UniProt:P78358)","Homo sapiens (human)",2,21
+753505,KAANIVLTV,"Uncharacterized protein (UniProt:A0A108T1Y9)","Bacteroides stercoris",1,4
+754325,YLCSGSSYF,"FMR1 neighbor protein (UniProt:Q8N0W7)","Homo sapiens (human)",1,2
+754326,YLCSGSSYFV,"FMR1 neighbor protein (UniProt:Q8N0W7)","Homo sapiens (human)",1,6
+766884,dapsone,,,1,2
+766885,nitroso-dapsone,,,1,2
+767706,RYCNLEGPPI,"Lymphocyte antigen 6K (UniProt:Q17RY6)","Homo sapiens (human)",1,2
+768069,LAMPFATPM,"Cancer/testis antigen 1 (UniProt:P78358)","Homo sapiens (human)",1,6
+778146,SLLQGSPHL,"Putative transcription factor Ovo-like 1 (UniProt:O14753)","Homo sapiens (human)",1,1
+844616,GRIAFFLKY,,,1,6
+846039,KLILWRGLK,,,1,4
+850848,MMWDRGLGMM,,,1,1
+850880,SMLGIGIVPV,,,1,1
+857795,QLCDVMFYL,,,1,5
+857812,YLSNIIPAL,,,1,5
+857813,YLYDRLLRV,,,1,5
+857864,EAEDLQVGQVELGG,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+857935,LALEGSL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,5
+857990,PGAGSLQPLALE,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+858014,QVELGGGPGAG,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,3
+858046,SLQPLALEGSL,"Insulin (UniProt:P01308)","Homo sapiens (human)",3,7
+858047,SLQPLALEGSLQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",2,4
+858095,VELGGGPG,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+858753,ALIHHNTYL,,,1,1
+858762,ALYGFVPVL,,,1,2
+858906,FLDEFMEAV,"NADP-dependent malic enzyme (UniProt:P48163)","Homo sapiens (human)",1,1
+858907,FLDEFMEGV,,,1,1
+858914,FLIYLDVSV,,,2,2
+858918,FLTYLDVSV,"WD repeat-containing protein 46 (UniProt:O15213)","Homo sapiens (human)",1,1
+858919,FMPDFDLHL,,,1,1
+859015,ILNAMIAKI,,,1,1
+859017,ILTGLNYEA,"Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating (UniProt:Q15738)","Homo sapiens (human)",1,2
+859018,ILTGLNYEV,,,1,2
+859563,VLENFTIFLV,,,1,1
+859569,VLLGVKLSGV,"Collagen alpha-1(XVIII) chain (UniProt:P39060)","Homo sapiens (human)",1,1
+859591,VVLSWAPPV,"Fibronectin type III domain-containing protein 3B (UniProt:Q53EP0)","Homo sapiens (human)",1,2
+859592,VVMSWAPPV,,,1,2
+861568,SLFFSAQPFEITAST,"Apolipoprotein B-100 (UniProt:P04114)","Homo sapiens (human)",1,1
+872108,FEDLRLLSF,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,2
+884674,TLSKPSPMPV,"Chromogranin-A (UniProt:P10645)","Homo sapiens (human)",1,1
+910730,GFVFTLTVPSE,"Matrix protein 1 (UniProt:P03485)","Influenza A virus",1,2
+910753,LVEELYLVAGEEGC,,,1,1
+910847,ALLETLSLLL,"Stalled ribosome sensor GCN1 (UniProt:Q92616)","Homo sapiens (human)",1,1
+910850,ALLQVTLLL,,,1,1
+910852,ALSPVIPHI,,,2,4
+910853,ALSYTPAEV,,,1,1
+910854,ALSYTPVEV,"Protein Njmu-R1 (UniProt:Q9HAS0)","Homo sapiens (human)",1,1
+910857,AMAGSLVFL,,,1,1
+910870,AVGSHVYSV,"Phosphoglucomutase-like protein 5 (UniProt:Q15124)","Homo sapiens (human)",1,1
+910871,AVGSYVYSV,,,1,2
+910973,FIDCYLLAI,,,1,1
+910974,FIDQYYSSI,"Nitric oxide synthase 1 (UniProt:P29475)","Homo sapiens (human)",1,1
+910975,FIFSYVVAV,,,1,1
+910976,FILDAVQRV,,,1,1
+910978,FIMGISILL,,,1,1
+910980,FITGISILL,"Interleukin-17 receptor A (UniProt:Q96F46)","Homo sapiens (human)",1,1
+910981,FIYQYYSSI,,,1,1
+910982,FLASPSVPL,,,1,1
+910985,FLEIYTVTV,,,1,1
+910987,FLFMYLVTV,"Olfactory receptor 1G1 (UniProt:P47890)","Homo sapiens (human)",1,1
+910988,FLFTFFASI,"Olfactory receptor 9Q2 (UniProt:Q8NGE9)","Homo sapiens (human)",1,1
+910989,FLGIYTVTV,"Olfactory receptor 8D4 (UniProt:Q8NGM9)","Homo sapiens (human)",1,1
+910990,FLGIYTVTVV,"Olfactory receptor 8D4 (UniProt:Q8NGM9)","Homo sapiens (human)",1,1
+910995,FLMASISSS,"Sarcospan (UniProt:Q14714)","Homo sapiens (human)",1,1
+910996,FLNDLLSVL,,,1,1
+910997,FLNDLLSVM,"Dedicator of cytokinesis protein 7 (UniProt:Q96N67)","Homo sapiens (human)",1,1
+910998,FLNVFFPLL,"Olfactory receptor 2T1 (UniProt:O43869)","Homo sapiens (human)",1,1
+910999,FLNVLFPLL,,,1,1
+911002,FLSDHLYLV,,,1,1
+911003,FLTVFSHFM,,,1,1
+911004,FLTVFSPFM,"GPI ethanolamine phosphate transferase 1 (UniProt:O95427)","Homo sapiens (human)",1,1
+911006,FMIGYASAL,"Transient receptor potential cation channel subfamily V member 4 (UniProt:Q9HBA0)","Homo sapiens (human)",1,1
+911007,FMIGYTSAL,,,1,1
+911008,FMLLTQARI,,,1,1
+911009,FMLLTQARL,"BTB/POZ domain-containing protein 1 (UniProt:Q9H0C5)","Homo sapiens (human)",1,1
+911010,FMLYLLTLM,,,1,1
+911011,FMLYLVTLM,"Olfactory receptor 14C36 (UniProt:Q8NHC7)","Homo sapiens (human)",1,1
+911013,FMSAYSGVL,"Taste receptor type 1 member 2 (UniProt:Q8TE23)","Homo sapiens (human)",1,1
+911016,FQLNQSFEI,,,1,1
+911018,FSFPLDFLV,"Probable G-protein coupled receptor 174 (UniProt:Q9BXC1)","Homo sapiens (human)",1,1
+911023,FVYVFTTHL,"B-cell CLL/lymphoma 9-like protein (UniProt:Q86UU0)","Homo sapiens (human)",1,1
+911048,GLDNHTILL,"Hemagglutinin (UniProt:P03460)","Influenza B virus (Influenza virus type B)",1,1
+911049,GLMAIAWFI,"Dolichyldiphosphatase 1 (UniProt:Q86YN1)","Homo sapiens (human)",1,1
+911050,GLSPNLNRFL,"Alpha-fetoprotein (UniProt:P02771)","Homo sapiens (human)",1,1
+911051,GLTSFFIAI,,,1,1
+911053,GMGPLLAMV,,,1,1
+911054,GMGPLLATV,"T-box transcription factor TBX3 (UniProt:O15119)","Homo sapiens (human)",1,1
+911088,HIAKSPFEV,"Filamin-A (UniProt:P21333)","Homo sapiens (human)",1,1
+911091,HIVEISTPV,,,1,1
+911096,HQLGGVVEV,"Patched domain-containing protein 4 (UniProt:Q6ZW05)","Homo sapiens (human)",1,1
+911125,ILGGQVVHTV,"Solute carrier family 15 member 2 (UniProt:Q16348)","Homo sapiens (human)",1,1
+911127,ILITQVLGL,,,1,1
+911128,ILIVMFPFL,,,1,1
+911129,ILIVMVPFL,"Olfactory receptor 10A3 (UniProt:P58181)","Homo sapiens (human)",1,1
+911130,ILLDWAANI,,,1,1
+911131,ILLDWAANV,"Exocyst complex component 3-like protein 4 (UniProt:Q17RC7)","Homo sapiens (human)",1,1
+911134,ILNVDIFTL,,,1,1
+911135,ILNVDVFTL,"BAI1-associated protein 3 (UniProt:O94812)","Homo sapiens (human)",1,1
+911198,KIVALGINAV,,,1,1
+911201,KLAKPLPYT,"Spermine oxidase (UniProt:Q9NWM0)","Homo sapiens (human)",1,1
+911202,KLFEFLVHGV,"SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily D member 3 (UniProt:Q6STE5)","Homo sapiens (human)",1,2
+911203,KLFEFLVYGV,,,1,2
+911211,KLLAGDEIV,"Protein Shroom2 (UniProt:Q13796)","Homo sapiens (human)",1,1
+911212,KLLAGVEIV,,,1,1
+911213,KLMNIQQQL,"A-kinase anchor protein 13 (UniProt:Q12802)","Homo sapiens (human)",1,1
+911214,KLNTITAVV,,,1,1
+911215,KLNTITPVV,"Chromodomain-helicase-DNA-binding protein 8 (UniProt:Q9HCK8)","Homo sapiens (human)",1,1
+911217,KLPLDIDPV,,,1,1
+911218,KLPLDINPV,"Tubulin--tyrosine ligase-like protein 12 (UniProt:Q14166)","Homo sapiens (human)",1,1
+911219,KLSELHAYI,"Hemoglobin subunit zeta (UniProt:P02008)","Homo sapiens (human)",1,1
+911220,KLSELHTYI,,,1,1
+911221,KLSHQLVLL,,,1,1
+911222,KLSHQPVLL,"Sorting nexin-24 (UniProt:Q9Y343)","Homo sapiens (human)",1,1
+911223,KLSREIMPV,"Histone acetyltransferase KAT6A (UniProt:Q92794)","Homo sapiens (human)",1,1
+911225,KLWASPLHV,,,1,1
+911228,KMVAVFYNT,,,1,1
+911229,KMVAVFYTT,"Olfactory receptor 5M8 (UniProt:Q8NGP6)","Homo sapiens (human)",1,1
+911281,LIFNMLYWI,,,1,1
+911282,LIIPCIHLI,"Ubiquitin carboxyl-terminal hydrolase 28 (UniProt:Q96RU2)","Homo sapiens (human)",1,1
+911283,LIIPFIHLI,,,1,1
+911286,LLAGTLAGV,"H(+)/Cl(-) exchange transporter 4 (UniProt:P51793)","Homo sapiens (human)",1,1
+911287,LLAGTLAVV,,,1,1
+911288,LLAIKVPNV,,,1,1
+911289,LLAILPYYV,"Potassium voltage-gated channel subfamily B member 1 (UniProt:Q14721)","Homo sapiens (human)",1,1
+911290,LLAILTYYV,,,1,1
+911291,LLAMKVPNV,"ATP-dependent RNA helicase DHX33 (UniProt:Q9H6R0)","Homo sapiens (human)",1,1
+911292,LLAMTVPNV,,,1,1
+911294,LLFAAFSSA,,,1,1
+911295,LLFALHFSA,,,1,1
+911296,LLFALYFSA,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2 (UniProt:Q9UJ37)","Homo sapiens (human)",1,1
+911297,LLFGMPPCL,,,1,1
+911298,LLFGMTPCL,"rRNA methyltransferase 1, mitochondrial (UniProt:Q6IN84)","Homo sapiens (human)",1,1
+911299,LLIASVTWL,,,1,1
+911301,LLLNMLIVL,,,1,1
+911304,LLSIISFPA,"Phosphorylase b kinase regulatory subunit alpha, liver isoform (UniProt:P46019)","Homo sapiens (human)",1,1
+911310,LMASISSFL,,,1,1
+911311,LMFWASSSI,,,1,1
+911312,LMLWASSSI,"Vomeronasal type-1 receptor 2 (UniProt:Q8NFZ6)","Homo sapiens (human)",1,1
+911313,LMMPFSIVYI,,,1,1
+911314,LMVLHSPSL,"Divergent protein kinase domain 2A (UniProt:Q8NDZ4)","Homo sapiens (human)",1,1
+911315,LMVPHSPSL,,,1,1
+911339,LVFPLVMGV,,,1,1
+911340,LVIGMPPPV,,,1,1
+911343,LVMPFSIVYI,"5-hydroxytryptamine receptor 1F (UniProt:P30939)","Homo sapiens (human)",1,1
+911348,MIISHLSLI,"Vomeronasal type-1 receptor 5 (UniProt:Q7Z5H4)","Homo sapiens (human)",1,1
+911349,MIISHLYLI,,,1,1
+911352,MLLKHDVSL,,,1,1
+911355,MLSILALVRV,,,1,1
+911356,MLYQHLLPL,"Other Homo sapiens (human) protein","Homo sapiens (human)",2,3
+911357,MMPFSIVYI,,,1,1
+911358,MMPFSIVYIV,,,1,1
+911378,NLAQTDLATV,,,1,1
+911379,NLFNRYLAL,,,1,1
+911384,NLNCCSVPV,,,1,1
+911385,NLNRCSVPV,"Guanine nucleotide-binding protein-like 3-like protein (UniProt:Q9NVN8)","Homo sapiens (human)",1,1
+911429,QLLVSLWGL,,,1,1
+911443,RLGPYLEFL,"Inter-alpha-trypsin inhibitor heavy chain H6 (UniProt:Q6UXX5)","Homo sapiens (human)",1,1
+911444,RLHDLVFPL,,,1,1
+911445,RLHDLVLPL,"Proline-, glutamic acid- and leucine-rich protein 1 (UniProt:Q8IZL8)","Homo sapiens (human)",1,1
+911446,RLIKHYPGI,,,1,1
+911447,RLMKHYPGI,"Storkhead-box protein 1 (UniProt:Q6ZVD7)","Homo sapiens (human)",1,1
+911448,RLVPYLEFL,,,1,1
+911450,RLWEPLRVV,"Mas-related G-protein coupled receptor member F (UniProt:Q96AM1)","Homo sapiens (human)",1,1
+911451,RMAAISNTV,"Tripartite motif-containing protein 16 (UniProt:O95361)","Homo sapiens (human)",1,1
+911458,RVIGMPPPV,"Myopalladin (UniProt:Q86TC9)","Homo sapiens (human)",1,1
+911488,SILDAVQRV,"Probable oxidoreductase PXDNL (UniProt:A1KZ92)","Homo sapiens (human)",1,1
+911490,SLAPLSPRA,"Connector enhancer of kinase suppressor of ras 1 (UniProt:Q969H4)","Homo sapiens (human)",1,1
+911491,SLAPLSPRV,,,1,1
+911493,SLDLTTSPV,,,1,1
+911497,SLLQGSPHV,,,1,1
+911498,SLLWMNLFV,,,1,1
+911499,SLLWMNPFV,"Palmitoyltransferase ZDHHC7 (UniProt:Q9NXF8)","Homo sapiens (human)",1,1
+911506,SLVALGINAV,,,1,1
+911532,SVLENFTIFL,,,1,1
+911533,SVLENFTILL,"Transcriptional enhancer factor TEF-1 (UniProt:P28347)","Homo sapiens (human)",1,1
+911537,TAMDIFVTV,,,1,1
+911538,TAMDLFVTV,"Gamma-aminobutyric acid receptor subunit gamma-3 (UniProt:Q99928)","Homo sapiens (human)",1,1
+911558,TLFTMVGTV,,,1,1
+911563,TMAAISNTV,,,1,1
+911564,TMSFSHLFYL,,,1,1
+911565,TMSSSHLFYL,"Insulin-like growth factor I (UniProt:P05019)","Homo sapiens (human)",1,1
+911589,VLASPSVPL,"E3 ubiquitin-protein ligase TRIM58 (UniProt:Q8NG06)","Homo sapiens (human)",1,1
+911590,VLFAAFSSA,"Plexin-B1 (UniProt:O43157)","Homo sapiens (human)",1,1
+911591,VLFHRAFLV,,,1,1
+911600,VLNPFIYML,,,1,1
+911601,VLNPFIYTL,"Olfactory receptor 6F1 (UniProt:Q8NGZ6)","Homo sapiens (human)",1,1
+911602,VLNYFEPYL,"Ryanodine receptor 3 (UniProt:Q15413)","Homo sapiens (human)",1,1
+911603,VLNYFKPYL,,,1,1
+911607,VMPFSIVYI,"5-hydroxytryptamine receptor 1F (UniProt:P30939)","Homo sapiens (human)",1,1
+911608,VMPFSIVYIV,"5-hydroxytryptamine receptor 1F (UniProt:P30939)","Homo sapiens (human)",1,1
+911617,VQYLGMFPV,,,1,1
+911618,VQYLGMLPV,"Amyloid beta precursor protein binding family B member 2 (UniProt:Q92870)","Homo sapiens (human)",1,1
+911627,WLWEPLRVV,,,1,1
+911637,YIFLGNLAL,"Olfactory receptor 5K4 (UniProt:A6NMS3)","Homo sapiens (human)",1,1
+911641,YLDELIKNT,"Alpha-2-macroglobulin-like protein 1 (UniProt:A8K2U0)","Homo sapiens (human)",1,1
+911642,YLDELIRNT,,,1,1
+911643,YLLAIFSGL,,,1,1
+911644,YLLFMIGYA,"Transient receptor potential cation channel subfamily V member 4 (UniProt:Q9HBA0)","Homo sapiens (human)",1,1
+911645,YLLFMIGYT,,,1,1
+911646,YLNELVVFV,,,1,1
+911650,YLQDSLATT,"Sterol regulatory element-binding protein 1 (UniProt:P36956)","Homo sapiens (human)",1,1
+911651,YLQDSMATT,,,1,1
+911653,YLVALGINAV,,,1,1
+911654,YLVALGVNAV,,,1,1
+911655,YLWPPVQLA,,,1,1
+911656,YMFLASPSV,,,1,1
+911657,YMLTLHTKL,,,1,1
+911660,YMVLASPSV,"E3 ubiquitin-protein ligase TRIM58 (UniProt:Q8NG06)","Homo sapiens (human)",1,1
+911666,YTSEILSPI,,,1,1
+911672,YVLTWIVGA,,,1,1
+911673,YVNELVVFV,"Olfactory receptor 8B8 (UniProt:Q15620)","Homo sapiens (human)",1,1
+911674,YVTAMDIFV,,,1,1
+911675,YVTAMDLFV,"Gamma-aminobutyric acid receptor subunit gamma-2 (UniProt:P18507)","Homo sapiens (human)",1,1
+911676,YVVTWIVGA,"Galactocerebrosidase (UniProt:P54803)","Homo sapiens (human)",1,1
+911981,"ASGNHAAGILTM + AMID(M97)","Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,2
+911982,ASGNHAAGILTM,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,3
+912069,GERQDATEIRASVGR,"Nucleoprotein (UniProt:P03466)","Influenza A virus",1,1
+912070,GERQNATEIRASVGK,"Nucleoprotein (UniProt:P03466)","Influenza A virus",2,6
+912104,GTRVIRDMTLHSAPS,"Transcription factor RFX4 (UniProt:Q33E94)","Homo sapiens (human)",1,4
+912112,"HGAGNHAAGILTL + AMID(L66)","Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,2
+912113,HGAGNHAAGILTL,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,3
+912237,LHCQERANELMRAMK,"Transcription factor RFX4 (UniProt:Q33E94)","Homo sapiens (human)",1,2
+912365,QASRTVIHSADITFQ,"Transcription factor RFX4 (UniProt:Q33E94)","Homo sapiens (human)",1,2
+923446,KLLEIAPNC,"Large T antigen (UniProt:B6DVW7)","Alphapolyomavirus quintihominis (Human polyomavirus 5)",2,33
+946571,LLWNTVWNM,"Non-structural polyprotein pORF1 (UniProt:Q81862)","Paslahepevirus balayani",1,4
+946920,SLFWNEPAI,"Non-structural polyprotein pORF1 (UniProt:Q81862)","Paslahepevirus balayani",1,4
+952024,ALWMRLLPLLA,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+953238,AIGIGAYLV,"Acetyl-CoA carboxylase 2 (UniProt:O00763)","Homo sapiens (human)",1,1
+953250,ALGIGAVPI,"Legumain (UniProt:Q99538)","Homo sapiens (human)",1,1
+953251,ALGIGIYSL,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform (UniProt:P42338)","Homo sapiens (human)",1,1
+953252,ALGIGVYPV,"Membrane-associated phosphatidylinositol transfer protein 1 (UniProt:O00562)","Homo sapiens (human)",1,1
+953446,DIAGIGLKTV,"Cullin-associated NEDD8-dissociated protein 2 (UniProt:O75155)","Homo sapiens (human)",1,1
+953469,DLAGIGILTV,,,1,2
+953766,EIAGIGILTV,,,1,2
+953803,ELAGIGIITV,,,1,2
+953804,ELAGIGILSV,,,1,2
+953805,ELAGIGILTA,,,1,2
+953806,ELAGIGILTI,,,1,2
+953807,ELAGIGLLTV,,,1,2
+953812,ELGGIGILTV,,,1,2
+954075,FLKGIGWIPI,"Nebulin (UniProt:P20929)","Homo sapiens (human)",1,1
+954188,GIGIGSGQL,"Epsin-3 (UniProt:Q9H201)","Homo sapiens (human)",1,1
+954207,GLGIGALVL,"Cytochrome c oxidase assembly factor 3 homolog, mitochondrial (UniProt:Q9Y2R0)","Homo sapiens (human)",1,1
+954208,GLGIGIASM,"Proton myo-inositol cotransporter (UniProt:Q96QE2)","Homo sapiens (human)",1,1
+954321,HIGIGLLSL,"Proteasome activator complex subunit 4 (UniProt:Q14997)","Homo sapiens (human)",1,1
+954407,IAGLGLLTV,"Transmembrane protein 74B (UniProt:Q9NUR3)","Homo sapiens (human)",1,3
+954454,ILEGIGILAV,"Anoctamin-3 (UniProt:Q9BYT9)","Homo sapiens (human)",1,1
+954455,ILEGIGILSV,"Anoctamin-4 (UniProt:Q32M45)","Homo sapiens (human)",1,1
+954460,ILLGIGIYAL,"Transmembrane and coiled-coil domain-containing protein 2 (UniProt:Q7Z6W1)","Homo sapiens (human)",1,1
+954646,KLGIGFAKA,"Sodium channel protein type 4 subunit alpha (UniProt:P35499)","Homo sapiens (human)",1,1
+954663,KMGIGWKPL,"Photoreceptor cilium actin regulator (UniProt:A6NGG8)","Homo sapiens (human)",1,1
+954846,LGIGVITI,"Other Homo sapiens (human) protein","Homo sapiens (human)",1,2
+954851,LIGIGIAPL,"Iron-responsive element-binding protein 2 (UniProt:P48200)","Homo sapiens (human)",1,1
+954852,LIGIGLNLV,"Spatacsin (UniProt:Q96JI7)","Homo sapiens (human)",1,1
+954862,LLGIGILVL,"Bone marrow stromal antigen 2 (UniProt:Q10589)","Homo sapiens (human)",1,1
+954863,LLGIGIYAL,"Transmembrane and coiled-coil domain-containing protein 2 (UniProt:Q7Z6W1)","Homo sapiens (human)",1,1
+954864,LLLGIGILVL,"Bone marrow stromal antigen 2 (UniProt:Q10589)","Homo sapiens (human)",1,1
+956343,EGTKGATMDLEIVNLPNVEISKDLS,,,1,1
+956365,HYNYMCNSSCMGGMNRRPILTIITL,"Cellular tumor antigen p53 (UniProt:P04637)","Homo sapiens (human)",1,1
+956366,HYNYMCNSSCMGSMNRRPILTIITL,,,1,1
+956372,ILQYLDSERRQIRIAKSPLAPFTSF,,,1,1
+956397,LGSRELFCSKLRRAAVFPPAHQQRT,,,1,1
+956409,MTEYKLVVVGAVGVGKSALTIQLI,,,2,8
+956419,NTVFGAERKKRLFIIGPTSRDRSSP,,,1,1
+956420,NTVFGAERKKRLSIIGPTSRDRSSP,"Mitogen-activated protein kinase kinase kinase 2 (UniProt:Q9Y2U5)","Homo sapiens (human)",1,1
+956421,PAIRVPPVIPLGSRELFCSKLRRAA,,,1,1
+956443,RLARLALVL,"Trophoblast glycoprotein (UniProt:Q13641)","Homo sapiens (human)",1,11
+956451,SFVNDIFERIAGVASRLAHYNKRST,,,1,1
+956467,VISAEKAYHEQLTVAEITNACFEPA,,,1,1
+969131,LLHGFSFYL,,,1,2
+969141,RLSDFSEQL,,,1,2
+984665,"PIPQQPQPYPQ + DEAM(Q4)","Other Hordeum vulgare (barley) protein","Hordeum vulgare (barley)",1,3
+985596,MVVQSELPYPE,"Oligopeptide transporter, OPT family (UniProt:Q9HX82)","Pseudomonas aeruginosa",1,1
+985618,PMPMPELPYP,"Uncharacterized protein (UniProt:A4V7A6)","Pseudomonas fluorescens",1,1
+986068,CLLWSFQTSA,"Tyrosinase (UniProt:P14679)","Homo sapiens (human)",1,1
+988945,FLASKIGRLV,"85/88 kDa calcium-independent phospholipase A2 (UniProt:O60733)","Homo sapiens (human)",1,1
+989936,KLQCVDLHV,"Prostate-specific antigen (UniProt:P07288)","Homo sapiens (human)",1,1
+991046,RIAAWMATY,"Bcl-2-like protein 1 (UniProt:Q07817)","Homo sapiens (human)",1,1
+992913,YLNDHLEPWI,"Bcl-2-like protein 1 (UniProt:Q07817)","Homo sapiens (human)",1,1
+993513,RLPSSADVEF,"Tyrosinase (UniProt:P14679)","Homo sapiens (human)",1,2
+1033685,MMDFFNAQM,"Splicing factor U2AF 65 kDa subunit (UniProt:P26368)","Homo sapiens (human)",1,7
+1063233,CLLGTYTQDV,,,1,1
+1065915,GGPGAGSLQPL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1065942,LQPLALEGSLQKR,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1065957,"PFSQQQQPVL + DEAM(Q4, Q6)","Tri a 36 (UniProt:B2Y2Q7)","Triticum aestivum (Canadian hard winter wheat)",1,5
+1065964,QPLALEGSLQKR,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1065965,"QPPFSQQQQPVL + DEAM(Q6, Q8)","Tri a 36 (UniProt:B2Y2Q7)","Triticum aestivum (Canadian hard winter wheat)",1,1
+1065978,RGFFYTPKTRRE,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1066024,YLVCGERGFFYT,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1066380,KALARALKEGRIR,,,1,11
+1069080,ALDPHSGHFV,,,2,11
+1069550,FNFNGLTGTGVLTES,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1070774,KLYGLDWAEL,,,1,3
+1071788,PPAYTNSFTRGVYYP,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1073444,TLMSAMTNL,"Prostatic acid phosphatase (UniProt:P15309)","Homo sapiens (human)",1,5
+1074628,SLSKILDTV,"Ankyrin repeat domain-containing protein 30A (UniProt:Q9BXX3)","Homo sapiens (human)",1,1
+1074846,ALSKGVHFV,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,3,7
+1074891,FPQSAPHGVVF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,4
+1074931,IPIQASLPF,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,2
+1074952,KLPDDFTGCV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1074980,LPPAYTNSF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1075005,NQKLIANQF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,17
+1075010,NTNSSPDDQIGYY,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1075030,RLFARTRSMW,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+1075075,TLDSKTQSL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1075079,TPINLVRDL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1075128,YVYSRVKNL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+1075245,EEAAGIGIL,"Melanoma antigen recognized by T-cells 1 (UniProt:Q16655)","Homo sapiens (human)",1,3
+1075251,EFTVSGNIL,"Cancer/testis antigen 1 (UniProt:P78358)","Homo sapiens (human)",1,3
+1075267,ESITGSLGPLL,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",1,3
+1075374,HRRGSRSYV,"Melanocyte protein PMEL (UniProt:P40967)","Homo sapiens (human)",1,3
+1075826,VYFFLPDHL,,,1,3
+1075881,6-methyl-5-[(1E)-3-oxobut-1-en-1-yl]uracil,,,1,1
+1075882,6-[(1-deoxy-D-ribityl)methyl]-5-[(1E)-3-oxobut-1-en-1-yl]uracil,,,1,1
+1075883,"6-[(1,5-dideoxy-D-ribityl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil",,,1,1
+1075885,6-[(5-hydroxypentyl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil,,,1,1
+1075887,"6-[(1,4-dideoxy-D-ribityl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil",,,1,1
+1075890,6-[(4-hydroxybutyl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil,,,1,1
+1075893,"6-[(1,2-dideoxy-D-ribityl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil",,,1,1
+1075895,6-[(2-hydroxyethyl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil,,,1,1
+1075897,"6-[(1,3-dideoxy-D-ribityl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil",,,1,1
+1075898,6-[(3-hydroxypropyl)amino]-5-[(E)-(2-oxopropylidene)amino]uracil,,,1,1
+1079584,KVDPIGHVY,,,1,1
+1081126,PAAVAANRDAFVQLV,"PPE family protein PPE52 (UniProt:I6X6H8)","Mycobacterium tuberculosis",1,1
+1081127,PAAVAANREAFLALI,"PPE family protein PPE64 (UniProt:Q6MWW0)","Mycobacterium tuberculosis",1,1
+1081128,PAEVAANRALLAALV,"PPE family protein PPE43 (UniProt:Q79FA9)","Mycobacterium tuberculosis",1,2
+1081132,PAIVAANRAVLVSLV,"PPE family protein PPE5 (UniProt:Q6MX49)","Mycobacterium tuberculosis",1,1
+1081137,PALVAANRALVAWLA,"Uncharacterized PPE family protein PPE63 (UniProt:P9WHX5)","Mycobacterium tuberculosis",1,1
+1081138,PALVAANRSDLVSLV,"PPE family protein PPE34 (UniProt:Q79FI9)","Mycobacterium tuberculosis",1,1
+1081139,PALVAANRSGLISLV,"PPE family protein PPE35 (UniProt:Q79FI8)","Mycobacterium tuberculosis",1,1
+1081141,PAMVAANRAQVASLV,"Uncharacterized PPE family protein PPE28 (UniProt:P9WI11)","Mycobacterium tuberculosis",1,2
+1081142,PAMVAANRTRLASLV,"Uncharacterized PPE family protein PPE42 (UniProt:P9WHZ5)","Mycobacterium tuberculosis",1,1
+1081150,PAVVAANRGLMQLLA,"PPE family protein PPE10 (UniProt:P9WI41)","Mycobacterium tuberculosis",1,1
+1081169,PEVVAANRALLAALV,"PPE family protein PPE15 (UniProt:P9WI31)","Mycobacterium tuberculosis",1,1
+1081221,PLLVAANRHQLVSLV,"Uncharacterized PPE family protein PPE16 (UniProt:P9WI29)","Mycobacterium tuberculosis",1,1
+1081222,PLLVAANRNAFAQLV,"Uncharacterized PPE family protein PPE62 (UniProt:P9WHX7)","Mycobacterium tuberculosis",1,1
+1081231,PMLVAANRADLVSLV,"Uncharacterized PPE family protein PPE24 (UniProt:P9WI15)","Mycobacterium tuberculosis",1,1
+1081232,PMLVAANRNAFVQLV,"PPE family protein PPE53 (UniProt:Q6MX04)","Mycobacterium tuberculosis",1,1
+1081243,PPAIAANRTLLMTLV,"Uncharacterized PPE family protein PPE23 (UniProt:P9WI17)","Mycobacterium tuberculosis",1,1
+1081247,PPEIAANRALLMALL,"Uncharacterized PPE family protein PPE65 (UniProt:P9WHX3)","Mycobacterium tuberculosis",1,2
+1081252,PPLIAANRARLTSLV,"Uncharacterized PPE family protein PPE22 (UniProt:P9WI19)","Mycobacterium tuberculosis",1,1
+1081253,PPLIAANRASLMQLI,"PPE family protein PPE26 (UniProt:Q79FK6)","Mycobacterium tuberculosis",1,2
+1081261,PPQIAANRSQLISLV,"Uncharacterized PPE family protein PPE33 (UniProt:P9WI03)","Mycobacterium tuberculosis",1,3
+1081264,PPVIAANRAQLMVLI,"Uncharacterized PPE family protein PPE29 (UniProt:P9WI09)","Mycobacterium tuberculosis",1,2
+1081296,PVVAANRIQLLALIA,"Transporter PPE51 (UniProt:P9WHY3)","Mycobacterium tuberculosis",1,2
+1081297,PVVVAANRSAFVQLV,"Uncharacterized PPE family protein PPE40 (UniProt:P9WHZ7)","Mycobacterium tuberculosis",1,1
+1082018,STRQALRPRADGPVG,"ESX-1 secretion-associated protein EspA (UniProt:P9WJE1)","Mycobacterium tuberculosis",1,2
+1087257,"N-[(2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)carbonyl]-beta-alanine",,,1,1
+1087258,"methyl N-[(2,6-dioxo-1,2,3,6-tetrahydropyrimidin-4-yl)carbonyl]-beta-alaninate",,,1,1
+1087377,LPNNTASWF,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+1087430,YYQLYSTQL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1087593,KQWLVWLFL,,,1,1
+1087594,KQWLVWLLL,"Protein-cysteine N-palmitoyltransferase HHAT (UniProt:Q5VTY9)","Homo sapiens (human)",1,1
+1091303,AVYDGREHTV,,,1,1
+1099208,GLARVIKNDSNYVVK,,,1,1
+1107203,LEYFMKQMNDARHGG,,,1,1
+1110535,MNDARHGGWTTKMDW,,,1,1
+1125043,CISSCNPNL,,,1,1
+1125063,GLTVLPPLL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1125066,HMTEVVRHC,,,4,8
+1125078,KLDDKDPNF,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+1125153,ASFRPELAEFW,,,1,1
+1125154,ASFSPELRMAW,,,1,1
+1125174,GSLAPEIRMYW,,,1,1
+1125175,GSLSPELRPIF,"Uncharacterized protein (UniProt:H8WXX2)","Candida orthopsilosis",1,2
+1125177,GTIRPEIPDYF,,,1,2
+1125178,GTIRPEIREMW,,,1,1
+1125188,KSCTPEVREYF,,,1,1
+1125189,KSFVPELKPAF,,,1,1
+1125191,KSLAPEVRDLF,,,1,1
+1125193,KSLTPEVRGYW,,,1,2
+1125194,LAITPEIAPYF,"HAD family hydrolase (UniProt:A0A3S0IQJ0)","Bacillus yapensis",1,1
+1125201,LSGSPELRMIF,,,1,1
+1125202,LSITPEIAPYF,"2-haloalkanoic acid dehalogenase (UniProt:W4QEU7)","Halalkalibacter hemicellulosilyticus",1,1
+1125203,LSITPEISPYF,,,1,1
+1125204,LSLRPEIPLFF,,,1,1
+1125207,LTISPEIPPYF,"HAD superfamily hydrolase (UniProt:F9DWI6)","Sporosarcina newyorkensis",1,3
+1125208,LTISPEIPSYF,"Other Sporosarcina newyorkensis protein","Sporosarcina newyorkensis",1,1
+1125209,LTITPEIAPFF,"Haloacid dehalogenase (UniProt:A0A162F4I4)","Alkalihalobacillus trypoxylicola",1,1
+1125210,LTITPEIAPYF,"HAD superfamily hydrolase (UniProt:K6DSK0)","Schinkia azotoformans (Bacillus azotiformans)",1,1
+1125211,LTITPEIRPYF,"Haloacid dehalogenase (UniProt:A0A0M0L5C0)","Priestia koreensis",1,1
+1125212,LTLTPEIAPYF,"Uncharacterized protein (UniProt:S0JPU0)","Enterococcus saccharolyticus",1,1
+1125216,NSFRPEVAMKY,,,1,1
+1125217,NSLKPEIPDYF,,,1,1
+1125218,NSVKPEIRPVW,,,1,1
+1125225,RSFVPEIGMGF,,,1,1
+1125226,RSLAPEVRGYW,"ATP-dependent nuclease subunit B (UniProt:E1QZJ9)","Olsenella uli",1,2
+1125227,RTYVPEIKHRW,,,1,1
+1125228,SALRPEIRLLW,,,1,1
+1125234,SSFSPELRMRW,,,1,1
+1125235,SSGVPEVRMMF,,,1,1
+1125240,WTYRPEVRGVW,,,1,1
+1125243,YSFKPELKEIF,,,1,1
+1141714,GADGVGKSA,,,1,2
+1141716,GADGVGKSAL,,,2,2
+1141717,GADGVGKSL,,,1,1
+1169818,SLQPLALEAEDLQV,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1183785,AEMEFCPCC,"Zinc finger protein 568 (UniProt:C9JZ58)","Homo sapiens (human)",1,5
+1192684,CCIEVINNT,"Kinesin-like protein KIF23 (UniProt:Q02241)","Homo sapiens (human)",1,5
+1192692,CFLLILPNC,"PABIR family member 1 (UniProt:Q6P4D5)","Homo sapiens (human)",1,5
+1192695,CFVECAPVC,"Keratinocyte proline-rich protein (UniProt:Q5T749)","Homo sapiens (human)",1,5
+1192698,CHIPVEPNT,"F-box only protein 40 (UniProt:Q9UH90)","Homo sapiens (human)",1,3
+1204973,EIQEFCPNT,"Rho-related GTP-binding protein RhoE (UniProt:P61587)","Homo sapiens (human)",1,5
+1211043,FDVMVMPNL,"Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial (UniProt:P51553)","Homo sapiens (human)",1,5
+1217677,GAVECCPNC,"DnaJ homolog subfamily A member 1 (UniProt:P31689)","Homo sapiens (human)",1,5
+1217751,GCQEICPAC,"Multiple epidermal growth factor-like domains protein 6 (UniProt:O75095)","Homo sapiens (human)",1,5
+1233708,IMIEFCPGG,"Serine/threonine-protein kinase 10 (UniProt:O94804)","Homo sapiens (human)",1,5
+1240896,KIILFLPCI,"Metalloreductase STEAP2 (UniProt:Q8NFT2)","Homo sapiens (human)",1,5
+1242671,KMVTVCPNT,"Zinc finger protein 483 (UniProt:Q8TF39)","Homo sapiens (human)",1,5
+1245474,KTVGIYPNA,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3 (UniProt:Q8NDV1)","Homo sapiens (human)",1,5
+1245769,KVKEVCPNV,"Fatty acyl-CoA reductase 2 (UniProt:Q96K12)","Homo sapiens (human)",1,5
+1249849,LHMEFCSCC,"Sorting nexin 11 (UniProt:J3QKV3)","Homo sapiens (human)",1,3
+1256487,LVLEVDPNI,"Keratin, type II cytoskeletal 8 (UniProt:P05787)","Homo sapiens (human)",1,5
+1259610,NDMLVCANI,"Rho guanine nucleotide exchange factor 10-like protein (UniProt:Q9HCE6)","Homo sapiens (human)",1,5
+1261341,NMIHFAPNV,"C3 and PZP-like alpha-2-macroglobulin domain-containing protein 8 (UniProt:Q8IZJ3)","Homo sapiens (human)",1,5
+1261343,NMINFAPNI,"CD109 antigen (UniProt:Q6YHK3)","Homo sapiens (human)",1,5
+1261424,NNILIATCV,"Protein NPAT (UniProt:Q14207)","Homo sapiens (human)",1,5
+1265952,QDVEIPPNI,"Fibrous sheath CABYR-binding protein (UniProt:Q5H9T9)","Homo sapiens (human)",1,5
+1268374,RCMLQCPSV,"Intermembrane lipid transfer protein VPS13C (UniProt:Q709C8)","Homo sapiens (human)",1,5
+1273241,RTMEVCYNT,"Dynein axonemal assembly factor 9 (UniProt:Q5TEA3)","Homo sapiens (human)",1,5
+1284307,SYLDLPWYL,"Toll-like receptor 1 (UniProt:Q15399)","Homo sapiens (human)",1,1
+1286803,THLMVLCCV,"Constitutive coactivator of PPAR-gamma-like protein 1 (UniProt:Q9NZB2)","Homo sapiens (human)",1,3
+1301001,VVVGAGGVGK,"GTPase KRas (UniProt:P01116)","Homo sapiens (human)",1,1
+1309115,FTSDYYQLY,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,3,8
+1309121,ILFTRFFYV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1309137,SIIAYTMSL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+1309138,SMWALIISV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1309141,TLMNVLTLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1309147,YLQPRTFLL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,8,16
+1309202,ESEERPPTPY,"Latent membrane protein 2 (UniProt:P13285)","Human herpesvirus 4 (Epstein Barr virus)",1,8
+1309301,VGATYYFNKNMSTYVDYKIN,"Outer membrane porin C (UniProt:P06996)","Escherichia coli",1,26
+1309311,VVVGADGVGK,,,2,11
+1309312,VVVGAVGVGK,,,1,97
+1309722,GAVILRGHLRIAGHHLG,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+1310050,AAFKRSCLK,"Small T antigen (UniProt:B0G0V7)","Alphapolyomavirus quintihominis (Human polyomavirus 5)",1,3
+1310189,RSGGFSFGK,"Large T antigen (UniProt:B6DVW7)","Alphapolyomavirus quintihominis (Human polyomavirus 5)",1,4
+1310224,VVVGACGVGK,,,1,2
+1310558,KVSIWNLDY,"ORF6 protein (UniProt:P0DTC6)",SARS-CoV2,1,2
+1310599,LLNKHIDAY,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1310622,LSYYKLGASQRVAGD,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+1310623,LTDEMIAQY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,4
+1310701,NVTWFHAIHVSGTNG,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1310703,NYMPYFFTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1310756,QYIKWPWYI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,4,7
+1310872,TTDPSFLGRY,"Replicase polyprotein 1a (UniProt:P0DTC1)",SARS-CoV2,2,3
+1310934,VYFLQSINF,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,3,6
+1310957,YIDIGNYTV,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+1311144,DTDFVNEFY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,3
+1311156,GTDLEGNFY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311180,LLYDANYFL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,2,6
+1311201,PTDNYITTY,"Replicase polyprotein 1a (UniProt:P0DTC1)",SARS-CoV2,2,5
+1311232,VTNNTFTLK,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1311524,VYALIAGATL,,,1,1
+1311525,VYAWNRKRI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1311559,FLAHIQWMV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311570,KPRQKRTAT,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1311590,SPRRARSVA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1311604,YLYALVYFL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,2
+1311767,MTLHGFMMY,,,1,1
+1311971,AIFYLITPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311973,ALLSDLQDL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1311974,ALNLGETFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311987,FITESKPSV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311988,FLALCADSI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1311990,FLRDGWEIV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1311994,GLNDNLLEI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312002,ILLLDQALV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312003,ILTSLLVLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312007,KLIEYTDFA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312008,KLMPVCVET,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312009,KLNEEIAII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312010,KLNIKLLGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1312016,LLFLMSFTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312018,LLLTILTSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312019,LLSVCLGSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312020,LMWLIINLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312022,MLAKALRKV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,2
+1312023,MLFTMLRKL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312030,RIMTWLDMV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312039,SLINTLNDL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312040,SLIYSTAAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312041,SLPGVFCGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312043,SMQNCVLKL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312047,TLSEQLDFI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312048,TVYEKLKPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312052,VINGDRWFL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312053,VLLAPLLSA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312058,VMVELVAEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1312059,WMVMFTPLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312063,YLEGSVRVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312064,YLNSTNVTI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1312066,YMPYFFTLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1312272,CSNLLLQYGSFCTQL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1312466,FLTENLLLY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312849,KKFLPFQQFGRDIAD,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1312861,KLKDCVMYA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1312917,KTQSLLIVNNATNVV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1313153,MIAQYTSAL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313192,NASVVNIQKEIDRLN,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313194,NCTFEYVSQPFLMDL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,4
+1313213,NLIDSYFVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1313218,NLLKDCPAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1313230,NNSYECDIPIGAGIC,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313269,NYNYLYRLF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,3,5
+1313363,QNVLYENQKLIANQF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313797,TRGVYYPDKVFRSSV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313923,VTDVTQLYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1313944,VYSTGSNVF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313960,WNRKRISNCVADYSV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1313970,WSMATYYLF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1313987,YENQKLIANQFNSAI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1314075,YYKKDNSYF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1314077,YYTSNPTTF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1315668,DYKHYTPSF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1315808,EIDPKLDNY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1316310,FAMQMAYRF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1316758,FLYENAFLP,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1316850,FPLKLRGTA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1317060,FTISVTTEI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1317137,FVSNGTHWF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,5
+1318059,HLMSFPQSA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1318163,HSYFTSDYY,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1319002,ITFDNLKTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1319559,KIYSKHTPI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,4
+1319654,KLINIIIWF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1319902,KPNELSRVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1321060,LPKEITVAT,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+1323201,QELIRQGTDY,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1323673,QYIKWPWYIW,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,5
+1323857,RLFARTRSM,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+1324090,RVAGDSGFAAY,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+1324274,SANNCTFEY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1325812,TPHTVLQAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1326046,TVYSHLLLV,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1326307,VENPHLMGWD,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1327781,WLDMVDTSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1327824,WTAGAAAYY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1327887,YANRNRFLY,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+1328001,YGFQPTNGV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1328471,YQDVNCTEV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+1329562,IAQYTSALL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,7
+1329787,NAQALNTLVKQLSSNFG,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1330178,TFEYVSQPFLMDLE,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,3
+1330450,FIDTKRGVY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330451,FLKKDAPYI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330469,GLMWLSYFI,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+1330500,KLVNKFLAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330507,KPVPEVKIL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330508,KPYIKWDLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330521,LPKGIMMNV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330527,MFLARGIVF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330528,MLDMYSVML,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1330532,MPYFFTLLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330540,NLSDRVVFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1330542,NVFAFPFTI,"Putative ORF10 protein (UniProt:A0A663DJA2)",SARS-CoV2,1,3
+1330560,QPGQTFSVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1330571,RLANECAQV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1330575,RLNQLESKM,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1330587,SLENVAFNV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330588,SLLMPILTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,2,7
+1330595,SPNLAWPLI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330599,SQLGGLHLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330622,TPAFDKSAF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330663,YTERSEKSY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1330664,YVWKSYVHV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1330879,ALLAVFQSA,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1331131,CLEASFNYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1332008,FVNEFYAYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1332010,FVTVYSHLL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1332346,IFFITGNTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1332347,IFLWLLWPV,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+1332495,KLVSSFLEM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1332542,KVDGVDVEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1332625,LIIMRTFKV,"ORF6 protein (UniProt:P0DTC6)",SARS-CoV2,1,3
+1332784,MFDAYVNTF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1333395,RTIKVFTTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1333818,STSAFVETV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1333886,SWMESEFRV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1334258,VPGLPGTIL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1334320,YADVFHLYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1334349,YFTSDYYQL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1334359,YINVFAFPF,"Putative ORF10 protein (UniProt:A0A663DJA2)",SARS-CoV2,1,1
+1334362,YLFDESGEF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1334426,YVVDDPCPI,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+1336938,"ILDQVPFSV + NLeu(L2)",,,1,1
+1338286,CLAVEEVSL,,,1,11
+1338871,PGAGSLQPLALEGSLQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,5
+1342355,KKFLPFQQFGR,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,3
+1346892,ALVPMVATV,,,1,1
+1346918,AQTFAATHNPWASQA,"Major capsid protein (UniProt:P16729)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+1347275,NLAPMVATV,,,1,1
+1347291,NTTVTFLPTPSLILQ,"DNA polymerase processivity factor (UniProt:P16790)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+1347308,QDENPVVHFFKNIVT,"Myelin basic protein (UniProt:P02686)","Homo sapiens (human)",1,1
+1347550,TTVTFLPTPSLILQT,"DNA polymerase processivity factor (UniProt:P16790)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+1347611,VYAIFIFQL,"Transmembrane protein HWLF3 (UniProt:P09724)","Human herpesvirus 5 (Human cytomegalovirus)",1,1
+1347775,HLIQQGARVGRIDAFVQSLD,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,1
+1354273,GINITRFQTLLALHRSY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1356376,IAGRSALEDLLFSKVVT,"Spike glycoprotein (UniProt:Q6Q1S2)","Human coronavirus NL63 (Coronavirus NL63)",1,2
+1366891,QFCNDPFLGVYHKNNK,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1370489,SKRSFIEDLLFNKVTLA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1392052,APHGVVFLH,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1392399,RIRGGDGKM,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,3
+1397395,"PQPQLPYPQPQ + DEAM(Q4,Q11)","Tri a 21 (UniProt:D2T2K3)","Triticum aestivum (Canadian hard winter wheat)",1,1
+1400125,FVVPYMIYLL,,,1,1
+1405954,VQIISCQY,,,1,2
+1462784,KVCEFQFCNDPFLGVYYHK,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+1463734,LACFVLAAV,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+1479687,NFGDQELIRQGTDYKHWPQ,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+1540279,FLCWHTNCY,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,2
+1541582,MCDIRQLLF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1542916,TSNEVAVLY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1545689,EESNLSFLKELLVRINRLDLLITYL,,,1,2
+1550656,MTEYKLVVVGADGVGKSALTIQLI,,,1,2
+1551280,PILKEIVEMLFSHGLVKVLFATETF,,,1,2
+1552046,QSISRNHVVDISKSGLITIAGGKWT,,,1,2
+1553117,SGNLLGRNSFEVCVCACPGRDRRTE,,,1,2
+1554367,TGLFGQTNTGFGDVGSTLFGNNKLT,,,1,2
+1555295,VKKPHRYRPGTVTLREIRRYQKSTE,,,1,2
+1555419,VLYENQKLI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1596903,ALAWVFVPI,"Sodium/mannose cotransporter SLC5A10 (UniProt:A0PJK1)","Homo sapiens (human)",1,4
+1596905,ALGWVFVPV,"Sodium/glucose cotransporter 4 (UniProt:Q2M3M2)","Homo sapiens (human)",1,4
+1597011,FLEYHDVRV,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+1597017,FLPGVYSVI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1597029,FVAAIFYLI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1597074,IIGWMWIPV,,,1,4
+1597080,ILGWIFVPI,"Probable glucose sensor protein SLC5A4 (UniProt:Q9NY91)","Homo sapiens (human)",1,1
+1597118,KLDGFMGRI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+1597168,LLAWHFVAV,"Vacuolar protein sorting-associated protein 8 homolog (UniProt:Q8N3P4)","Homo sapiens (human)",1,4
+1597172,LLGWVFAQV,"Tissue factor (UniProt:P13726)","Homo sapiens (human)",1,4
+1597184,"LLSYFGTPT + METH(Y4)",,,1,1
+1597185,"LLSYFGTPT + SCM(Y4)",,,1,34
+1597204,MLAWIFLPI,"Sodium/myo-inositol cotransporter 2 (UniProt:Q8WWX8)","Homo sapiens (human)",1,4
+1597444,YTAYVFIPI,"Serine palmitoyltransferase small subunit B (UniProt:Q8NFR3)","Homo sapiens (human)",1,4
+1597686,FLHVTYVPA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1597720,KLPDDFTGC,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1597721,KQIYKTPPI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,6
+1597722,KQLSSNFGA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1597815,SVTTEILPV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1597845,VTWFHAIHV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1597851,WLIVGVALL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+1598188,AEDLQVGQVELGGGP,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1598362,AFVNQHLCGSHLVEA,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1613389,LQKRGIVEQCCTSIC,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1616345,QKRGIVEQCCTSICS,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1618265,RREAEDLQVGQVELG,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1618754,RVLGLVLLRGENLVS,"Small nuclear ribonucleoprotein-associated proteins B and B' (UniProt:P14678)","Homo sapiens (human)",1,8
+1619583,"SHLVEALYLVCGERGFFYTPK + CITR(R14)","Insulin (UniProt:P01308)","Homo sapiens (human)",1,9
+1635375,RLITGRLQSL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,8
+1646544,ATRGATVVI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1649069,CTSICSLY,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1659432,FVSEETGTL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,2
+1660670,GFFYTPKT,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1660944,GGGPGAGSLQP,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1664690,HLVEALYL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1671929,KRPIPIKYKAM,,,1,1
+1678970,LWMRLLPLLAL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1679366,MALWMRLLPLL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,2
+1688151,QKRPIPIKYKAM,,,1,1
+1688296,QLLFVVEVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1689634,RARSVASQSI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1690645,RLFLGLAIK,,,1,6
+1691013,RPIPIKYKA,,,1,1
+1691014,RPIPIKYKAM,,,1,8
+1701204,TWLTYTGAI,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+1702594,VEQCCTSI,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1702595,VEQCCTSICSL,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+1851946,YVVPGSPCL,,,1,2
+1855507,AMDEFIERY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1857535,GQVELGGGNAVEVCK,,,1,3
+1858285,KPVETSNSF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+1858355,KWPWYIWLG,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1860591,WPWYIWLGF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+1862228,RFNLIANQHLLAPGF,,,1,1
+1862310,RTQLLWTPAAPTAMA,"Other Homo sapiens (human) protein","Homo sapiens (human)",1,1
+1868573,"QPFPQPQQPFP + DEAM(Q7)","Tri a 19 (UniProt:Q402I5)","Triticum aestivum (Canadian hard winter wheat)",1,2
+1868895,RLQSLQIYV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,4
+1872337,ILLWQPIPV,"Prostatic acid phosphatase (UniProt:P15309)","Homo sapiens (human)",1,3
+1929146,RVVVLSFEL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+1938120,TTIQTIVEV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+1968727,MTEYKLVVVGAGGVGKSALTIQLIQ,"GTPase KRas (UniProt:P01116)","Homo sapiens (human)",1,1
+1968728,MTEYKLVVVGAVGVGKSALT,,,1,2
+1968729,MTEYKLVVVGAVGVGKSALTIQLIQ,,,1,2
+1970929,SPKANKEILDEAYVMAYVMAGVGSPYVSRLLG,,,1,2
+1993571,RSRRCLRL,"ADAMTS-like protein 5 (UniProt:Q6ZMM2)","Homo sapiens (human)",1,3
+2001221,NLLLQYGSFCTQLNRAL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2001270,QSRGDENRGW,"Epstein-Barr nuclear antigen 6 (UniProt:P03204)","Human herpesvirus 4 (Epstein Barr virus)",1,2
+2018047,GRLKALCQR,,,1,1
+2060673,ALHGGWTTK,,,1,2
+2115994,CTFEYVSQPFLMDLEGK,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2115995,DDQIGYYRRATRRIRGG,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2116007,RGHLRIAGHHLGRCDIK,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2116009,SSANNCTFEYVSQPFLM,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2116010,STECSNLLLQYGSFCTQ,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2116011,TNILLNVPLHGTILTRP,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2116014,YYRRATRRIRGGDGKMK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2122262,IPTNFTISVTTEILP,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2130947,ASFSTFKCYGVSPTKLNDLCFT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2130965,ATFTSYRSWYLA,"Penton protein (UniProt:A0A1J0FAQ1)","Bat mastadenovirus G",1,1
+2131218,DQVILLNKHIDAY,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2131447,FIKQYGDCLGD,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2132353,LLLLDRLNQLESKMSGKGQQQQ,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2132361,LLQYGSF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,2,6
+2132861,QALNTLVKQLS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2132927,QSAPHGVVFL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2132985,RGHLRIAGHHLGRCDIKDLP,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2133004,RKHFSMMILS,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2133137,SGTWLTYTGAIKLDDKDPNFK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2133825,WLDGVTPSL,"Hedgehog/Intein (Hint) domain-containing protein (UniProt:A5G1S8)","Acidiphilium cryptum (Acidiphilum cryptum)",1,1
+2133992,AHIQWMVMF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2133993,AIKLDDKDP,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2133995,ALNNIINNA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2133996,ALPETTADI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2133998,ALVYFLQSI,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2133999,ALYYPSARI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134000,AMAVMLLLL,"Putative ORF9c protein (UniProt:P0DTD3)",SARS-CoV2,1,1
+2134001,AMDEFIEQY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134002,AMMFTSDLA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134003,APATVCGPK,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134005,APISAMVRM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134006,APLLSAGVF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134007,APRITFGGL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134009,APTKVTFGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134011,ATSRMLSYY,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134012,AVIKTLQPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134013,AVLDMCASL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134014,CFAYYFMRF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134015,CLAVHECFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134016,CLAYYFMRF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134017,CLGSLIYST,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134018,CLTPVYSFL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134020,CPACYNSEV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134022,CVMYASAVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134025,DDKDPQFKD,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134028,DKDPQFKDN,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134030,DLFMRIFTI,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,2
+2134031,DNVILLNKH,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+2134032,DPNFKDQVI,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134034,DQVILLNKH,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134035,DRLNQLESK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134037,DYTEISFML,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134040,ELTSMKYFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134041,ELYHYQECV,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,1
+2134042,ELYSPIFLI,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,2
+2134047,FAFACPDGV,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,2
+2134048,FAFPFTIYS,"Putative ORF10 protein (UniProt:A0A663DJA2)",SARS-CoV2,1,1
+2134050,FIDIKRGVY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134051,FISTCACEI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134052,FKDNVILLN,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,3
+2134054,FLCLFLLPS,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134055,FLCWHTSCY,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2134056,FLDGSCGSV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134057,FLEGETLPT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134058,FLGIITTVA,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+2134059,FLIGCNYLG,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134060,FLNKVVSTT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134061,FLPFAMGII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134062,FLPFFSDVT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134063,FLPFFSNVT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134064,FLVLLPLVS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2134065,FMCVEYCPI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134066,FMIDVQQWG,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134067,FMSEAKCWT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134068,FPDLNGDVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134069,FPFTSFGPL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134070,FPLCANGQV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134072,FPNITNLCP,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134073,FSASTSAFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134074,FSAVGDICY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134075,FSDVTWFHA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134076,FSNVTWFHA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134077,FSVVGNICY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134079,FTPLVPFWI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134080,FTVLCLTPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134081,FVCDNIKFA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134082,FVFPLNSII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134083,FVMMSAPPA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134084,FWITIAYII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134086,FYWFFSNYL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134087,GAIKLDDKD,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134089,GDAALALLL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134091,GGETALALL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134092,GIIAMSAFA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134093,GLALYYPSA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134094,GLFKDCSKV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134095,GLIAIVMVT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2134096,GLPWNVVRI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134098,GSEHSLAEY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134100,HGAIKLDDK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134101,HLLLVAAGL,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2134102,HSDKFTDGV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134104,HTDLMAAYV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134110,IKLDDKDPN,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+2134111,IKLDDKDPQ,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134112,ILAYCNKTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134113,ILPDPSKPS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134114,ILRKGGRTI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134115,IMLCCMTSC,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+2134119,IPLTTSSKL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134121,IPVAYRKVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134122,IPVAYRNVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134124,ISQWLTNIF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134126,ITNFKSVLY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134127,ITSGWTFGA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134129,KAYDVTQAF,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134130,KDNVILLNK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+2134131,KDPQFKDNV,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134135,KIILFLALI,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,1
+2134136,KISEMHPAL,"ORF9b protein (UniProt:P0DTD2)",SARS-CoV2,1,1
+2134137,KITEHSWNA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134139,KLDDKDPQF,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134140,KLLKSIAAT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134141,KLQFTSLEI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134142,KMFDAYVNT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134143,KMVSLLSVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134144,KPADNSLKI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134145,KPAPRELKV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134146,KPASRELKV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134147,KPLPEVKIL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134148,KQLIKVTLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134149,KQLPFFYYS,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134150,KSVDITFEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134151,KSVNITFEL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134152,KVYPIILRL,"ORF9b protein (UniProt:P0DTD2)",SARS-CoV2,1,2
+2134153,LDDKDPNFK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134154,LDDKDPQFK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134156,LDRLNQLES,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134158,LFTRFFYVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134159,LIVAAIVFI,"Latent membrane protein 2 (UniProt:P13285)","Human herpesvirus 4 (Epstein Barr virus)",1,1
+2134160,LLDRLNQLE,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134161,LLEWLAMAV,"Putative ORF9c protein (UniProt:P0DTD3)",SARS-CoV2,1,1
+2134162,LLLEWLAMA,"Putative ORF9c protein (UniProt:P0DTD3)",SARS-CoV2,1,2
+2134164,LLTNMFTPL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134165,LMCQPILLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134166,LMGHFAWWT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134167,LMNVLTLFY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134168,LMNVLTLVY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134169,LMWLSYFIA,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+2134170,LNKHIDAYK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134171,LPDDFMGCV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134172,LPDDFTGCV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134173,LPGCDGGSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134175,LPPSYTNSF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134177,LPSYAAFAT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134178,LPSYAALAT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134181,LQNNELSPV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134182,LSDLQDLKW,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134183,LSDRVVFVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134184,LTNDDTSRY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134185,LTSHTVMPL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134186,LTYHGAIKL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134188,LVGLMWLSY,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134189,LVQSTQWSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134190,LYALVYFLH,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2134191,LYALVYFLQ,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2134193,MASGGGETA,"Nucleoprotein (UniProt:P59595)",SARS-CoV1,1,1
+2134194,MCDVRQLLF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134196,MLNPNYEDL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134198,MMILSDDAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134200,MPLSAPTLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134202,MQVESDDYI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134203,MSAFAMMFV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134204,MSDVKCTSV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134205,MVTNNTFTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134207,NLDAVPTGY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134209,NLDYIINLI,"ORF6 protein (UniProt:P0DTC6)",SARS-CoV2,1,1
+2134210,NLHPDSATL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134211,NLQSNHDLY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134212,NMMVTNNTF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134214,NPANNASIV,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134215,NPANNVAIV,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134216,NPTIQKNVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134217,NSAIGKIQY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134218,NSSTCMMCY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134219,NSTRFASVY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134220,NTFSSTFNV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134221,NTLQCIMLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134222,NVILLNKHI,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+2134223,NVLTLVYKV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134227,PQFKDNVIL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134231,PTDQSYYIV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134232,PTDSYITTY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134233,PVTLACFVL,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134234,QADVEWKFY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134238,QINDMILSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134239,QLCTQHQPY,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+2134240,QMAPISAMV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134244,QVILLNKHI,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134246,QVVSDIDYV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134247,QWNLVIGFL,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134248,RAMPNMLRI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134250,RARLVSPKL,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,1
+2134251,RFLYIIKLI,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134253,RIMASLVLA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134254,RLSFKELLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134255,RLVDPQIQL,"ORF9b protein (UniProt:P0DTD2)",SARS-CoV2,1,1
+2134256,RLYLDAYNM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134258,RSDTRYVLM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134260,RSRNSSRNL,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134261,RTAPHGHEL,"Replicase polyprotein 1a (UniProt:P0DTC1)",SARS-CoV2,1,1
+2134262,RTAPHGHVV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134263,RTIKGTYHW,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134266,SACVLAAEC,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134270,SGGGETALA,"Nucleoprotein (UniProt:P59595)",SARS-CoV1,1,1
+2134272,SLLVLVQST,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134274,SLSSTASAL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134275,SLTYSTAAL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134277,SMMILSDDA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134278,SPIFRIVAA,"ORF7a protein (UniProt:P0DTC7)",SARS-CoV2,1,1
+2134279,SPLPSYAAF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134280,SSDNIALLV,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,1
+2134282,SSSTCMMCY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134284,STDVTIATY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134286,STQWSLFFF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134288,SVFNICQAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134289,SVIYLYLTF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134290,SVLYYQNNV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134292,TCDGTTFTY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134293,TDDNALSYY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134295,TILTSLLVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134296,TIVEVQPQL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134297,TLIVNSVLL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,2
+2134298,TLKNTVCTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134299,TLLFLMSFT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134300,TLNDFNLVA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134301,TLSGTWLTY,"Nucleoprotein (UniProt:P59595)",SARS-CoV1,1,1
+2134303,TMCDIRQLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134305,TQMNLKYAI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134306,TQWSLFFFL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134307,TSAMHTMLF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134308,TSAMQTMLF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134309,TSDPTTFHL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134312,TSQWLTNIF,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134313,TTEELPDEF,"ORF9b protein (UniProt:P0DTD2)",SARS-CoV2,1,1
+2134314,TTLNDFNLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134315,TVSCLPFTI,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+2134317,TYHWLLLTI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134318,VAFNTLLFL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134320,VFLVLLPLV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2134321,VFLVLWPLV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134324,VIYMGTLSY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134325,VLCNSQTSL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134326,VLQVRDVLV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134327,VLSFELLHA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134328,VLSTFISAA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134329,VMDEFIERY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134330,VMHANYIFW,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134331,VMYASAVVL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134333,VPHHVVATV,"Putative ORF9c protein (UniProt:P0DTD3)",SARS-CoV2,1,1
+2134334,VPMEKFKTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134336,VPYFNMVYM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134340,VTDNTFTLK,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,2
+2134342,VTLAILTAL,"Envelope small membrane protein (UniProt:P0DTC4)",SARS-CoV2,1,1
+2134343,WLTNIFGTV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134344,WLTYHGAIK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134345,WLTYTGAIK,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,1
+2134346,WMESEFRVY,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134347,WPLVSSQCV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2134348,WPVTLACFV,"Membrane protein (UniProt:P0DTC5)",SARS-CoV2,1,2
+2134352,WTDNNCYLA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134354,YFLQSINFV,"ORF3a protein (UniProt:P0DTC3)",SARS-CoV2,1,1
+2134355,YHGAIKLDD,"Nucleoprotein (UniProt:P0DTC9)",SARS-CoV2,1,2
+2134356,YIDIGDYTV,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+2134357,YLAVFDKNL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134359,YLGGMSYYC,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134362,YMHHMELPT,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134363,YMPYIFTLL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134364,YMRSLKVPA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134365,YPLECIKDL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134367,YQVNGYPNM,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134369,YTACSHAAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134370,YTDFATSAC,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134371,YTDFSSEII,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134372,YTDIATSAC,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134373,YTDINGNLH,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134374,YTNDKACPL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134375,YTNSFTRGV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2134376,YTVELGTEV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134377,YTVSCLPFT,"ORF8 protein (UniProt:P0DTC8)",SARS-CoV2,1,1
+2134378,YVDDSSLTI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134379,YVDNSSLTI,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,3
+2134380,YVFHLYLQY,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2134435,HIKEYLNKIQNSLST,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,1
+2134455,LLTDEMIAQYTSALLAGTI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2134473,PNANPNVDPNANPNV,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,1
+2134474,PSDKHIKEYLNKIQN,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,1
+2134475,PSDKHIKEYLNKIQNSLSTEWSP,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,2
+2134486,RNVDENANANSAVKN,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,1
+2134510,YLNKIQNSLSTEWSP,"Circumsporozoite protein (UniProt:Q7K740)","Plasmodium falciparum (malaria parasite P. falciparum)",1,1
+2135471,"GIAGFKGEQGPKGEP + MULT(K6, P15)","Collagen alpha-1(II) chain (UniProt:P02458)","Homo sapiens (human)",1,6
+2136107,GAGNHAAGILTL,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2136608,LHGAGNHAAGILTL,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2136670,LQASGNHAAGILTM,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2137084,QASGNHAAGILTM,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2137249,RSGPPGLQGRLQRLLQASGNHAAGILTM,"Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2143556,SYKSYSSTF,,,1,1
+2144690,NSKEETGHLENGN,,,1,7
+2151843,ARVMLVAPR,,,1,1
+2152426,DRVMLIAPR,,,1,1
+2152629,ERSSYWARRR,,,1,1
+2153055,GKTELLAPF,"Gen. Secretion Protein D (UniProt:O84576)","Chlamydia trachomatis",1,2
+2153150,GQMWLLAPR,"G-protein coupled estrogen receptor 1 (UniProt:Q99527)","Homo sapiens (human)",1,3
+2153151,GQVMVVAPR,"Ribonuclease H2 subunit B (UniProt:A0A2R8Y7R8)","Homo sapiens (human)",1,3
+2153164,GRIMLLAPK,,,1,1
+2153171,GRLMLIAPK,,,1,1
+2153173,GRMPLVAPK,,,1,1
+2153175,GRPMFYSVK,,,1,1
+2153176,GRQPVPLWR,,,1,1
+2153180,GRVGDLSPR,"SEC14-like protein 2 (UniProt:O76054)","Homo sapiens (human)",1,1
+2153183,GRVMLLAPLR,,,1,1
+2153185,GRVMLRAPK,,,1,1
+2153186,GRVMLVAPK,,,1,1
+2153187,GRVPLRAPK,,,1,1
+2154223,LRQMLQAPH,"MAGUK p55 subfamily member 4 (UniProt:Q96JB8)","Homo sapiens (human)",1,1
+2154226,LRVMMLAPF,"UPF0324 inner membrane protein YeiH (UniProt:Q8ZNK7)","Salmonella enterica",1,8
+2154572,NRLMMIAPR,,,1,1
+2155850,SRIMLLAPK,,,1,1
+2155862,SRVMLLAPK,,,1,1
+2155863,SRVMLLAPR,,,1,1
+2155864,SRVMLLNPK,,,1,1
+2156219,TRLALIAPK,"U4/U6 small nuclear ribonucleoprotein Prp3 (UniProt:O43395)","Homo sapiens (human)",1,7
+2156231,TRVMLISPK,,,1,1
+2156644,VQVMLNNPK,"Glycine receptor subunit beta (UniProt:P48167)","Homo sapiens (human)",1,1
+2157334,CQARVTYKI,"Replicase polyprotein 1ab (UniProt:P0C6X5)","Human coronavirus NL63 (Coronavirus NL63)",1,1
+2157361,GQARVAYQV,"Replicase polyprotein 1ab (UniProt:P0C6X1)","Human coronavirus 229E (Coronavirus 229E)",1,1
+2157374,KQLLFVLEV,"Replicase polyprotein 1ab (UniProt:P0C6X2)","Human coronavirus HKU1 (CoV-HKU1)",1,1
+2157376,LLMPILTL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,6
+2157399,TMMDLCFAL,"Replicase polyprotein 1ab (UniProt:P0C6X1)","Human coronavirus 229E (Coronavirus 229E)",1,1
+2157400,TMMDLVYAL,"Replicase polyprotein 1ab (UniProt:K9N7C7)","Middle East respiratory syndrome-related coronavirus (MERS coronavirus)",1,1
+2157401,TMMDLVYAM,"Replicase polyprotein 1ab (UniProt:P0C6X5)","Human coronavirus NL63 (Coronavirus NL63)",1,1
+2157650,AALPILFQV,,,1,2
+2157655,ALLLQLFTL,,,1,9
+2157656,ALLPGLPAA,,,1,4
+2157717,MYVKWPWYVW,"Spike glycoprotein (UniProt:Q5MQD0)","Human coronavirus HKU1 (CoV-HKU1)",1,1
+2157723,NYIKWPWWVW,"Spike glycoprotein (UniProt:Q6Q1S2)","Human coronavirus NL63 (Coronavirus NL63)",1,1
+2157731,RLPGVLPRA,,,1,6
+2157750,TYIKWPWWVW,"Spike glycoprotein (UniProt:P15423)","Human coronavirus 229E (Coronavirus 229E)",1,1
+2157762,YLQPRTFLLK,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2157766,YYVKWPWYVW,"Spike glycoprotein (UniProt:P36334)","Betacoronavirus 1",1,1
+2186167,MSRAFIIDPTISAID,"ESX-1 secretion-associated protein EspA (UniProt:P9WJE1)","Mycobacterium tuberculosis",1,2
+2187311,AGILARNLVPM,"65 kDa phosphoprotein (UniProt:P06725)","Human herpesvirus 5 (Human cytomegalovirus)",1,2
+2187399,RINATLETK,"Myosin-6 (UniProt:P13533)","Homo sapiens (human)",1,1
+2187713,LLLARAASLSL,"Prostatic acid phosphatase (UniProt:P15309)","Homo sapiens (human)",1,3
+2187825,SVCAGILSYGV,,,1,3
+2189010,"YMNGTMSQV + DEAM(N3)","Tyrosinase (UniProt:P14679)","Homo sapiens (human)",1,1
+2189327,TQHFVQENYLEY,"Melanoma-associated antigen 3 (UniProt:P43357)","Homo sapiens (human)",1,2
+2219529,GATGLAWEWWRTVYE,,,1,3
+2221603,RTAMFQDPQER,"Protein E6 (UniProt:P03126)","Alphapapillomavirus 9",1,5
+2223423,ALDYIHHVGYV,,,1,2
+2223435,ARHIHEGASL,,,1,1
+2223473,DYIIRSHKV,,,1,2
+2223483,EMQLTPFFI,,,1,1
+2223489,FAFRWVLGIAY,,,1,2
+2223493,FEADTFFHFV,,,1,2
+2223504,FLVWDHNPIG,,,1,4
+2223510,FPLDVGSIVAY,,,1,3
+2223514,FPNIHMETC,,,1,3
+2223518,FQVIQPERV,,,1,1
+2223519,FRLIARLL,,,1,1
+2223522,FRSTRFLHI,,,1,2
+2223530,FVGPLDEDF,,,1,2
+2223533,FVNLEQHVV,,,1,2
+2223596,ITADVNYNL,,,1,2
+2223599,IWDYVNKELA,,,1,2
+2223604,KALDYIHHV,,,1,2
+2223628,KRKEPLKI,,,1,1
+2223638,KYTKAFLV,,,1,3
+2223639,LAVFPNIHM,,,1,3
+2223642,LGLARAFGIPV,,,1,3
+2223653,LLDTVLVNV,,,1,3
+2223671,LRFLRNGLT,,,1,1
+2223675,LSDAFVSV,,,1,2
+2223702,MRTHPGRPFF,,,1,2
+2223794,RPSTAEKYIF,,,1,1
+2223795,RQFDITSVSV,,,1,3
+2223805,RTHPGRPFF,,,1,2
+2223830,SISAFNLDVV,,,1,2
+2223835,SLLKLGKLPL,,,1,1
+2223851,SRVLHKLEV,,,1,2
+2223908,VLKNRYLVL,,,1,2
+2223909,VLLGLWYLQTA,,,1,3
+2223913,VMVNHLHKY,,,1,2
+2223920,VSFGLQFQF,,,1,1
+2223946,YLHAYAKAL,,,1,2
+2223973,ALQIPFAMQM,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,4
+2224022,KLTESLHKV,,,1,1
+2224038,MQLFFSYFA,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,4
+2224075,TLATHGLAAV,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,4
+2224095,YPDKVFRSSV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,4
+2226686,SSCMGGMNWR,,,1,1
+2228554,LQVGQVELGGGPGAGSLQ,"Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2230257,FYAFSCYYDL,,,1,2
+2230258,FYAFSYYYDL,"Ectonucleoside triphosphate diphosphohydrolase 6 (UniProt:O75354)","Homo sapiens (human)",1,2
+2231669,NQKLIANAF,"Spike glycoprotein (UniProt:P36334)","Betacoronavirus 1",1,14
+2231757,QHMTEVVRHCPHHER,,,1,2
+2231844,RNTFRHSVVVPCE,,,1,2
+2231872,SCMGGMNWRPILTII,,,1,2
+2232331,VVRHCPHHERCSDSD,,,1,2
+2232979,AMDLGIHKV,,,1,2
+2233102,IYLDLPWYL,,,1,3
+2233146,LYKKHTETF,,,1,1
+2233158,MYIEMLKSI,,,1,3
+2233159,MYTEMLKSI,"Putative CENPB DNA-binding domain-containing protein 1 (UniProt:B2RD01)","Homo sapiens (human)",1,1
+2233166,NYGLGLLQF,,,1,1
+2233192,QSDNGLDSDY,,,1,1
+2233194,QSSPVQATF,"Bifunctional coenzyme A synthase (UniProt:Q13057)","Homo sapiens (human)",1,2
+2233197,QYNKYVEVF,,,1,3
+2233198,QYSPVQATF,,,1,12
+2233248,TADFDITEL,,,2,6
+2233513,GGTAWLLQHYEACASALAQNMRHTY,,,1,2
+2233557,KLYEGCEVV,,,1,3
+2233568,LFRVPSYQALLRGVFHQTVSRKVAL,"Collagen alpha-1(VI) chain (UniProt:P12109)","Homo sapiens (human)",1,2
+2233569,LFRVPSYQALLRRVFHQTVSRKVAL,,,1,2
+2233667,VAQFPSQLLTW,,,1,3
+2233741,DPPALASTNAEVT,,,1,1
+2233757,EYYELFVNI,"DEP domain-containing protein 1A (UniProt:Q5TB30)","Homo sapiens (human)",1,2
+2233768,GYNSYSVSNSEKHIM,,,1,1
+2233795,MPYGYVLNEF,,,1,1
+2233831,TYDTVHRHL,,,1,1
+2235494,"QPLPDCCRQKTCSCRLYELLHGAGNHAAGILTL + PYRE(Q1)","Hypocretin neuropeptide precursor (UniProt:O43612)","Homo sapiens (human)",1,1
+2236868,SVYAWNRKRIS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2248729,DVMNILLQYVVKSFDRSTK,"Glutamate decarboxylase 2 (UniProt:Q05329)","Homo sapiens (human)",1,1
+2249841,EMMLFDWKV,,,1,7
+2249995,FMGVTYEM,,,1,2
+2250217,GMDYHNGHL,,,1,2
+2250716,KLEFMDWRL,,,1,7
+2250717,KLEQLDWTV,"Gem-associated protein 4 (UniProt:P57678)","Homo sapiens (human)",1,6
+2250725,KMDYFSGQL,,,1,4
+2250728,KMGVTYEM,,,1,1
+2250999,LLEDLDWDV,"WD repeat-containing protein 87 (UniProt:Q6ZQQ6)","Homo sapiens (human)",1,6
+2251036,LMDMHNGQL,,,1,3
+2251037,LMDYWQGQL,,,1,5
+2251371,NMEYMTWDV,"Cysteine-rich secretory protein LCCL domain-containing 1 (UniProt:Q9H336)","Homo sapiens (human)",1,6
+2251375,NMMWFQGQL,,,1,2
+2251425,NVEYYDIKL,"Kelch-like protein 7 (UniProt:Q8IXQ5)","Homo sapiens (human)",1,6
+2251784,RLDAMNGQL,,,1,2
+2251807,RMDYNNMQM,,,1,2
+2251809,RMEQVDWTV,,,1,7
+2252035,SMDWFQGQM,,,1,5
+2252036,SMGVTYEM,,,1,2
+2252278,TLEYMDWLV,,,1,7
+2252297,TMETIDWKV,"HLA class II histocompatibility antigen gamma chain (UniProt:P04233)","Homo sapiens (human)",1,6
+2252544,VLDLFQGQL,"Thioredoxin domain-containing protein 11 (UniProt:Q6PKC3)","Homo sapiens (human)",1,13
+2252547,VLEEVDWLI,"Fanconi anemia group I protein (UniProt:Q9NVI1)","Homo sapiens (human)",1,6
+2252761,WLDNFELCL,,,1,7
+2252856,YMGVSYEM,,,1,1
+2252857,YMGVVYEM,,,1,1
+2253470,ATDALKNRSSVEARMEFVRQALAYL,,,1,1
+2253472,DLYHLIKKAVAVQKHLERNRKDKDA,,,1,1
+2253479,INPVVHPHGHIFTVYTDVQQVASSL,,,1,1
+2253484,NENLDLKEL,"Unconventional myosin-Vb (UniProt:Q9ULV0)","Homo sapiens (human)",1,1
+2253485,NENLDLQEL,,,1,4
+2253486,NLWPVTHGL,,,1,1
+2253496,RGSTDNLMDDIEMAVDDGVNTFKVL,,,1,1
+2253497,RKAMEAVAAQGKTKK,,,1,1
+2253498,SEQTFLIGL,,,1,1
+2253500,TEFFPFYAL,,,1,3
+2253501,TRLRKQALQDTLVLYKMFSEADACE,,,1,1
+2253502,VLVIASTDVDKTAASYYGEQTLHYI,,,1,1
+2253504,YWNQGYGYQQGYEPGYGGYDYSPYG,,,1,1
+2255550,ALPGFFPRL,,,1,1
+2255692,EPLHTPTIM,,,1,1
+2255810,GTDSDSSRQK,,,1,2
+2255876,IPNPKAGIM,,,1,1
+2255987,LPEEKQPL,"Tyrosinase (UniProt:P14679)","Homo sapiens (human)",1,3
+2256245,RRWDEKAVDKSK,,,1,2
+2256445,VQTFLGISF,,,1,2
+2256820,KINMPMSVK,"Genome polyprotein (UniProt:P08292)","Enterovirus B (Enterovirus EV-B)",1,4
+2265419,LGSDNRLTR,"NAD-dependent protein deacetylase hst4 (UniProt:Q5BE04)","Aspergillus nidulans",1,8
+2265436,NPGSDNTVKR,"Homoserine kinase (UniProt:A1RQK6)","Pyrobaculum islandicum",1,7
+2265451,QGSHNTRTRG,"Large ribosomal subunit protein uL4 (UniProt:Q7UN19)","Rhodopirellula baltica",1,6
+2265461,SGSDNKVTLW,"Protein transport protein SEC13 (UniProt:G0SA60)","Thermochaetoides thermophila",1,7
+2265489,VIGNDTTVTF,"Aspartate ammonia-lyase (UniProt:P44324)","Haemophilus influenzae",1,6
+2269514,EIRASANLAAT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2269661,LLQYGSFCTQL,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+2269683,LVKNKCVNFNF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2269693,MIAQYTSALLA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2270568,DQKSCFKSMITAGFEPVVIE,"O-phosphoseryl-tRNA(Sec) selenium transferase (UniProt:Q9HD40)","Homo sapiens (human)",1,4
+2270571,EAEDLQVGLALEGSLQ,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270592,GQVELGGGPGAEDLQ,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270621,LQPLALEGSLLALEGS,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270646,QPLALEGLQVGQVELG,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270650,REAEDLQVGVCGERGF,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270654,RREAEDLQVGQALEGS,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270679,VELGGGPGAEAEDLQ,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270680,VELGGGPGVELGGGP,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270681,VGQVELGGGLALEGSL,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270682,VGQVELGGGPALEGSL,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270683,VGQVELGGGPGVEALY,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270684,VGQVELGGGPIVEQCC,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2270685,VGQVELGGGPLVEALY,"Two components:Insulin (UniProt:P01308) & Insulin (UniProt:P01308)","Homo sapiens (human)",1,1
+2271090,AAAAAGVSFTK,,,1,1
+2271107,AIIGPNGSGK,"Structural maintenance of chromosomes protein 1A (UniProt:Q14683)","Homo sapiens (human)",1,4
+2271119,AMGDRLTAV,,,1,1
+2271131,AQGIGSSVY,,,1,1
+2271133,AQPGLKTQF,,,1,1
+2271161,AVKPKAAKLK,,,1,1
+2271172,DDYISVYSV,,,1,1
+2271189,DYQFVHSTF,,,1,1
+2271197,EEIGILEH,,,1,1
+2271242,FILGRVFVV,,,1,1
+2271257,FLSINVHKV,,,1,1
+2271262,FLYDNKLQTI,,,1,1
+2271265,FMYGPLVVV,,,1,1
+2271269,FPVPVLETY,,,1,1
+2271310,GQAGAISITF,,,1,1
+2271311,GQAQGIGSSVY,,,1,1
+2271312,GQVDVPLSHF,,,1,1
+2271322,GVINALQKV,,,1,1
+2271341,HPAAHAPMM,,,1,1
+2271365,IIFDSDWNL,,,1,1
+2271423,KLNSGIAYV,,,1,1
+2271500,LLYWLSTQK,,,1,1
+2271545,LYLDSFYEY,,,1,1
+2271637,RLMEDLDWNK,,,1,1
+2271671,RVFVVGSGK,,,1,1
+2271694,SEVIFLPFL,,,1,1
+2271734,SQYPVFDVSTY,,,1,1
+2271754,TACKHIRSGEPMILSCLMEHLYTEK,,,1,1
+2271762,TLIEGNPPWEV,,,1,1
+2271766,TLLFEVFTI,,,1,1
+2271767,TLMPVAPPWA,,,1,1
+2271794,TVYPMARLL,,,1,1
+2271823,VPRGFPFHSL,,,1,1
+2271847,YAIQYLQKF,,,1,1
+2271861,YPVSTTVEF,,,1,1
+2271873,YVNEQLVSY,,,1,1
+2272095,NLIDSYFVVK,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2275294,SGQHLVVYRRKHQEL,,,1,4
+2275716,YPDPSRIL,"Replicase polyprotein 1ab (UniProt:P0DTD1)",SARS-CoV2,1,1
+2275766,FIEDLLFNKVT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2275773,FVSGNCDVVIG,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275779,GWTAGAAAYYV,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275782,HWFVTQRNFYE,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275783,IFGTTLDSKTQ,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275785,INITRFQTLLA,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275789,KLIANQFNSAI,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275801,LSFELLHAPAT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275803,NCTFEYVSQPF,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2275806,PFQQFGR,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275810,RFQTLLALHRS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2275816,SFSTFKCYGVS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275826,TRFASVYAWNR,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,2
+2275831,VFAQVKQIYKT,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,1
+2275848,YNYLYRLFRKS,"Spike glycoprotein (UniProt:P0DTC2)",SARS-CoV2,1,3
+2275894,AVIMAIGTTK,"5-hydroxytryptamine receptor 1E (UniProt:P28566)","Homo sapiens (human)",1,2
+2275920,IIVGAIGVGK,"Ras-related protein Rab-7b (UniProt:Q96AH8)","Homo sapiens (human)",1,1

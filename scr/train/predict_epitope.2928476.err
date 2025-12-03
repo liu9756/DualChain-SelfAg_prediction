@@ -1,0 +1,4 @@
+/users/PAS2177/liu9756/DualChain-SelfAg_prediction/scr/train/train_epitope_classifier.py:526: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler(enabled=(torch.cuda.is_available() and bool(args.amp) and not args.cpu))
+/users/PAS2177/liu9756/miniconda3/envs/Ye/lib/python3.13/site-packages/torch/nn/modules/transformer.py:515: UserWarning: The PyTorch API of nested tensors is in prototype stage and will change in the near future. We recommend specifying layout=torch.jagged when constructing a nested tensor, as this layout receives active development, has better operator coverage, and works with torch.compile. (Triggered internally at /pytorch/aten/src/ATen/NestedTensorImpl.cpp:178.)
+  output = torch._nested_tensor_from_mask(

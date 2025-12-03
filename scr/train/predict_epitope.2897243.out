@@ -1,0 +1,414 @@
+[blocks] mean| HLA=0.0081
+[Epoch 001] train_loss=14.0786  val_loss=7.6869  ACC=0.000  F1m=0.000  Top5=0.000  Top1=0.000
+[Epoch 002] train_loss=13.7608  val_loss=7.3962  ACC=0.000  F1m=0.000  Top5=0.000  Top1=0.000
+[Epoch 003] train_loss=13.4539  val_loss=6.9474  ACC=0.000  F1m=0.000  Top5=0.000  Top1=0.000
+[Epoch 004] train_loss=13.1687  val_loss=6.3872  ACC=0.017  F1m=0.000  Top5=0.357  Top1=0.017
+[Checkpoint] New best ACC=0.0169 at epoch 4. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 005] train_loss=12.8657  val_loss=5.7542  ACC=0.402  F1m=0.002  Top5=0.421  Top1=0.402
+[Checkpoint] New best ACC=0.4016 at epoch 5. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 006] train_loss=12.4878  val_loss=5.0439  ACC=0.421  F1m=0.004  Top5=0.498  Top1=0.421
+[Checkpoint] New best ACC=0.4208 at epoch 6. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 007] train_loss=12.1222  val_loss=4.3259  ACC=0.467  F1m=0.006  Top5=0.630  Top1=0.467
+[Checkpoint] New best ACC=0.4669 at epoch 7. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 008] train_loss=11.6948  val_loss=3.6955  ACC=0.528  F1m=0.008  Top5=0.674  Top1=0.528
+[Checkpoint] New best ACC=0.5283 at epoch 8. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 009] train_loss=11.3120  val_loss=3.2413  ACC=0.575  F1m=0.012  Top5=0.703  Top1=0.575
+[Checkpoint] New best ACC=0.5749 at epoch 9. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 010] train_loss=10.9581  val_loss=2.9374  ACC=0.606  F1m=0.015  Top5=0.752  Top1=0.606
+[Checkpoint] New best ACC=0.6058 at epoch 10. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 011] train_loss=10.5251  val_loss=2.6987  ACC=0.621  F1m=0.023  Top5=0.782  Top1=0.621
+[Checkpoint] New best ACC=0.6209 at epoch 11. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 012] train_loss=10.1293  val_loss=2.4911  ACC=0.631  F1m=0.029  Top5=0.796  Top1=0.631
+[Checkpoint] New best ACC=0.6307 at epoch 12. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 013] train_loss=9.7007  val_loss=2.3123  ACC=0.641  F1m=0.036  Top5=0.810  Top1=0.641
+[Checkpoint] New best ACC=0.6408 at epoch 13. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 014] train_loss=9.2890  val_loss=2.1631  ACC=0.650  F1m=0.043  Top5=0.820  Top1=0.650
+[Checkpoint] New best ACC=0.6497 at epoch 14. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 015] train_loss=8.9163  val_loss=2.0428  ACC=0.658  F1m=0.054  Top5=0.827  Top1=0.658
+[Checkpoint] New best ACC=0.6582 at epoch 15. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 016] train_loss=8.5038  val_loss=1.9499  ACC=0.664  F1m=0.059  Top5=0.835  Top1=0.664
+[Checkpoint] New best ACC=0.6638 at epoch 16. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 017] train_loss=8.1279  val_loss=1.8764  ACC=0.669  F1m=0.069  Top5=0.838  Top1=0.669
+[Checkpoint] New best ACC=0.6688 at epoch 17. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 018] train_loss=7.7463  val_loss=1.8175  ACC=0.675  F1m=0.079  Top5=0.839  Top1=0.675
+[Checkpoint] New best ACC=0.6746 at epoch 18. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 019] train_loss=7.3414  val_loss=1.7722  ACC=0.679  F1m=0.089  Top5=0.841  Top1=0.679
+[Checkpoint] New best ACC=0.6791 at epoch 19. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 020] train_loss=7.0195  val_loss=1.7352  ACC=0.686  F1m=0.096  Top5=0.842  Top1=0.686
+[Checkpoint] New best ACC=0.6859 at epoch 20. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 021] train_loss=6.6037  val_loss=1.7034  ACC=0.686  F1m=0.101  Top5=0.845  Top1=0.686
+[Checkpoint] New best ACC=0.6865 at epoch 21. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 022] train_loss=6.3100  val_loss=1.6741  ACC=0.689  F1m=0.110  Top5=0.845  Top1=0.689
+[Checkpoint] New best ACC=0.6893 at epoch 22. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 023] train_loss=5.9124  val_loss=1.6495  ACC=0.694  F1m=0.115  Top5=0.846  Top1=0.694
+[Checkpoint] New best ACC=0.6939 at epoch 23. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 024] train_loss=5.5671  val_loss=1.6296  ACC=0.694  F1m=0.118  Top5=0.845  Top1=0.694
+[Checkpoint] New best ACC=0.6941 at epoch 24. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 025] train_loss=5.2271  val_loss=1.6135  ACC=0.694  F1m=0.116  Top5=0.845  Top1=0.694
+[Epoch 026] train_loss=4.9475  val_loss=1.6005  ACC=0.695  F1m=0.119  Top5=0.844  Top1=0.695
+[Checkpoint] New best ACC=0.6952 at epoch 26. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 027] train_loss=4.6728  val_loss=1.5899  ACC=0.696  F1m=0.118  Top5=0.844  Top1=0.696
+[Checkpoint] New best ACC=0.6965 at epoch 27. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 028] train_loss=4.4653  val_loss=1.5801  ACC=0.698  F1m=0.121  Top5=0.844  Top1=0.698
+[Checkpoint] New best ACC=0.6977 at epoch 28. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 029] train_loss=4.2235  val_loss=1.5741  ACC=0.697  F1m=0.121  Top5=0.843  Top1=0.697
+[Epoch 030] train_loss=4.0226  val_loss=1.5708  ACC=0.698  F1m=0.123  Top5=0.844  Top1=0.698
+[Checkpoint] New best ACC=0.6980 at epoch 30. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 031] train_loss=3.8771  val_loss=1.5687  ACC=0.698  F1m=0.127  Top5=0.842  Top1=0.698
+[Checkpoint] New best ACC=0.6982 at epoch 31. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 032] train_loss=3.7616  val_loss=1.5673  ACC=0.700  F1m=0.131  Top5=0.845  Top1=0.700
+[Checkpoint] New best ACC=0.7001 at epoch 32. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 033] train_loss=3.6549  val_loss=1.5666  ACC=0.702  F1m=0.133  Top5=0.845  Top1=0.702
+[Checkpoint] New best ACC=0.7016 at epoch 33. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 034] train_loss=3.4709  val_loss=1.5678  ACC=0.702  F1m=0.132  Top5=0.846  Top1=0.702
+[Checkpoint] New best ACC=0.7019 at epoch 34. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 035] train_loss=3.4265  val_loss=1.5713  ACC=0.703  F1m=0.135  Top5=0.845  Top1=0.703
+[Checkpoint] New best ACC=0.7029 at epoch 35. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 036] train_loss=3.3311  val_loss=1.5752  ACC=0.703  F1m=0.135  Top5=0.847  Top1=0.703
+[Checkpoint] New best ACC=0.7034 at epoch 36. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 037] train_loss=3.2561  val_loss=1.5826  ACC=0.703  F1m=0.134  Top5=0.848  Top1=0.703
+[Epoch 038] train_loss=3.1722  val_loss=1.5919  ACC=0.703  F1m=0.135  Top5=0.847  Top1=0.703
+[Epoch 039] train_loss=3.1458  val_loss=1.6000  ACC=0.704  F1m=0.137  Top5=0.849  Top1=0.704
+[Checkpoint] New best ACC=0.7045 at epoch 39. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 040] train_loss=3.0424  val_loss=1.6109  ACC=0.706  F1m=0.139  Top5=0.850  Top1=0.706
+[Checkpoint] New best ACC=0.7064 at epoch 40. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 041] train_loss=3.0207  val_loss=1.6221  ACC=0.706  F1m=0.138  Top5=0.851  Top1=0.706
+[Epoch 042] train_loss=2.9427  val_loss=1.6309  ACC=0.706  F1m=0.137  Top5=0.854  Top1=0.706
+[Epoch 043] train_loss=2.9120  val_loss=1.6407  ACC=0.708  F1m=0.141  Top5=0.855  Top1=0.708
+[Checkpoint] New best ACC=0.7077 at epoch 43. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 044] train_loss=2.8484  val_loss=1.6512  ACC=0.709  F1m=0.141  Top5=0.856  Top1=0.709
+[Checkpoint] New best ACC=0.7092 at epoch 44. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 045] train_loss=2.8313  val_loss=1.6649  ACC=0.709  F1m=0.142  Top5=0.856  Top1=0.709
+[Epoch 046] train_loss=2.8287  val_loss=1.6789  ACC=0.711  F1m=0.145  Top5=0.857  Top1=0.711
+[Checkpoint] New best ACC=0.7107 at epoch 46. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 047] train_loss=2.7631  val_loss=1.6908  ACC=0.711  F1m=0.145  Top5=0.856  Top1=0.711
+[Epoch 048] train_loss=2.7597  val_loss=1.7054  ACC=0.712  F1m=0.145  Top5=0.856  Top1=0.712
+[Checkpoint] New best ACC=0.7122 at epoch 48. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 049] train_loss=2.7454  val_loss=1.7205  ACC=0.712  F1m=0.146  Top5=0.857  Top1=0.712
+[Epoch 050] train_loss=2.6657  val_loss=1.7337  ACC=0.715  F1m=0.145  Top5=0.857  Top1=0.715
+[Checkpoint] New best ACC=0.7151 at epoch 50. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 051] train_loss=2.6933  val_loss=1.7471  ACC=0.715  F1m=0.143  Top5=0.859  Top1=0.715
+[Epoch 052] train_loss=2.7142  val_loss=1.7601  ACC=0.715  F1m=0.143  Top5=0.857  Top1=0.715
+[Checkpoint] New best ACC=0.7153 at epoch 52. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 053] train_loss=2.6274  val_loss=1.7721  ACC=0.714  F1m=0.143  Top5=0.857  Top1=0.714
+[Epoch 054] train_loss=2.6535  val_loss=1.7835  ACC=0.715  F1m=0.144  Top5=0.858  Top1=0.715
+[Epoch 055] train_loss=2.6167  val_loss=1.7960  ACC=0.715  F1m=0.146  Top5=0.857  Top1=0.715
+[Epoch 056] train_loss=2.5767  val_loss=1.8092  ACC=0.715  F1m=0.145  Top5=0.857  Top1=0.715
+[Epoch 057] train_loss=2.5198  val_loss=1.8216  ACC=0.716  F1m=0.144  Top5=0.859  Top1=0.716
+[Checkpoint] New best ACC=0.7157 at epoch 57. Saved to: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt
+[Epoch 058] train_loss=2.5797  val_loss=1.8342  ACC=0.714  F1m=0.144  Top5=0.859  Top1=0.714
+[Epoch 059] train_loss=2.5646  val_loss=1.8454  ACC=0.713  F1m=0.144  Top5=0.858  Top1=0.713
+[Epoch 060] train_loss=2.5786  val_loss=1.8589  ACC=0.713  F1m=0.145  Top5=0.858  Top1=0.713
+[Epoch 061] train_loss=2.4754  val_loss=1.8740  ACC=0.711  F1m=0.144  Top5=0.857  Top1=0.711
+[Epoch 062] train_loss=2.4559  val_loss=1.8872  ACC=0.710  F1m=0.145  Top5=0.858  Top1=0.710
+[Epoch 063] train_loss=2.4485  val_loss=1.9017  ACC=0.712  F1m=0.144  Top5=0.859  Top1=0.712
+[Epoch 064] train_loss=2.4508  val_loss=1.9113  ACC=0.710  F1m=0.144  Top5=0.858  Top1=0.710
+[Epoch 065] train_loss=2.4557  val_loss=1.9235  ACC=0.710  F1m=0.145  Top5=0.858  Top1=0.710
+[Epoch 066] train_loss=2.4420  val_loss=1.9378  ACC=0.709  F1m=0.145  Top5=0.858  Top1=0.709
+[Epoch 067] train_loss=2.4300  val_loss=1.9499  ACC=0.707  F1m=0.143  Top5=0.859  Top1=0.707
+[Epoch 068] train_loss=2.4279  val_loss=1.9610  ACC=0.708  F1m=0.144  Top5=0.857  Top1=0.708
+[Epoch 069] train_loss=2.4700  val_loss=1.9753  ACC=0.707  F1m=0.144  Top5=0.858  Top1=0.707
+[Epoch 070] train_loss=2.3824  val_loss=1.9888  ACC=0.706  F1m=0.142  Top5=0.856  Top1=0.706
+[Epoch 071] train_loss=2.3770  val_loss=2.0049  ACC=0.705  F1m=0.143  Top5=0.857  Top1=0.705
+[Epoch 072] train_loss=2.3700  val_loss=2.0184  ACC=0.704  F1m=0.145  Top5=0.856  Top1=0.704
+[Epoch 073] train_loss=2.3833  val_loss=2.0258  ACC=0.704  F1m=0.144  Top5=0.857  Top1=0.704
+[Epoch 074] train_loss=2.3943  val_loss=2.0350  ACC=0.704  F1m=0.142  Top5=0.857  Top1=0.704
+[Epoch 075] train_loss=2.3661  val_loss=2.0432  ACC=0.702  F1m=0.139  Top5=0.856  Top1=0.702
+[Epoch 076] train_loss=2.3204  val_loss=2.0510  ACC=0.701  F1m=0.139  Top5=0.857  Top1=0.701
+[Epoch 077] train_loss=2.3143  val_loss=2.0591  ACC=0.703  F1m=0.141  Top5=0.856  Top1=0.703
+[Epoch 078] train_loss=2.3783  val_loss=2.0654  ACC=0.703  F1m=0.141  Top5=0.856  Top1=0.703
+[Epoch 079] train_loss=2.4159  val_loss=2.0732  ACC=0.705  F1m=0.145  Top5=0.856  Top1=0.705
+[Epoch 080] train_loss=2.3395  val_loss=2.0839  ACC=0.703  F1m=0.145  Top5=0.857  Top1=0.703
+[Epoch 081] train_loss=2.3362  val_loss=2.0943  ACC=0.704  F1m=0.150  Top5=0.856  Top1=0.704
+[Epoch 082] train_loss=2.3610  val_loss=2.1049  ACC=0.702  F1m=0.147  Top5=0.856  Top1=0.702
+[Epoch 083] train_loss=2.3569  val_loss=2.1169  ACC=0.702  F1m=0.145  Top5=0.857  Top1=0.702
+[Epoch 084] train_loss=2.2997  val_loss=2.1296  ACC=0.702  F1m=0.144  Top5=0.857  Top1=0.702
+[Epoch 085] train_loss=2.3070  val_loss=2.1414  ACC=0.701  F1m=0.141  Top5=0.855  Top1=0.701
+[Epoch 086] train_loss=2.3568  val_loss=2.1497  ACC=0.701  F1m=0.142  Top5=0.856  Top1=0.701
+[Epoch 087] train_loss=2.3198  val_loss=2.1556  ACC=0.701  F1m=0.145  Top5=0.856  Top1=0.701
+[Epoch 088] train_loss=2.2923  val_loss=2.1601  ACC=0.701  F1m=0.145  Top5=0.855  Top1=0.701
+[Epoch 089] train_loss=2.2778  val_loss=2.1637  ACC=0.700  F1m=0.143  Top5=0.855  Top1=0.700
+[Epoch 090] train_loss=2.3654  val_loss=2.1650  ACC=0.702  F1m=0.143  Top5=0.856  Top1=0.702
+[Epoch 091] train_loss=2.3100  val_loss=2.1730  ACC=0.702  F1m=0.145  Top5=0.856  Top1=0.702
+[Epoch 092] train_loss=2.3013  val_loss=2.1807  ACC=0.702  F1m=0.142  Top5=0.856  Top1=0.702
+[Epoch 093] train_loss=2.3231  val_loss=2.1872  ACC=0.701  F1m=0.142  Top5=0.855  Top1=0.701
+[Epoch 094] train_loss=2.2561  val_loss=2.1945  ACC=0.701  F1m=0.143  Top5=0.854  Top1=0.701
+[Epoch 095] train_loss=2.2973  val_loss=2.2007  ACC=0.701  F1m=0.140  Top5=0.853  Top1=0.701
+[Epoch 096] train_loss=2.3347  val_loss=2.2070  ACC=0.701  F1m=0.142  Top5=0.853  Top1=0.701
+[Epoch 097] train_loss=2.2870  val_loss=2.2106  ACC=0.701  F1m=0.143  Top5=0.853  Top1=0.701
+[Epoch 098] train_loss=2.2874  val_loss=2.2172  ACC=0.702  F1m=0.143  Top5=0.853  Top1=0.702
+[Epoch 099] train_loss=2.2811  val_loss=2.2243  ACC=0.703  F1m=0.143  Top5=0.853  Top1=0.703
+[Epoch 100] train_loss=2.3027  val_loss=2.2284  ACC=0.703  F1m=0.140  Top5=0.852  Top1=0.703
+[Epoch 101] train_loss=2.2750  val_loss=2.2312  ACC=0.703  F1m=0.141  Top5=0.852  Top1=0.703
+[Epoch 102] train_loss=2.2407  val_loss=2.2335  ACC=0.703  F1m=0.141  Top5=0.851  Top1=0.703
+[Epoch 103] train_loss=2.2769  val_loss=2.2386  ACC=0.703  F1m=0.140  Top5=0.852  Top1=0.703
+[Epoch 104] train_loss=2.2931  val_loss=2.2370  ACC=0.702  F1m=0.140  Top5=0.851  Top1=0.702
+[Epoch 105] train_loss=2.2672  val_loss=2.2408  ACC=0.701  F1m=0.138  Top5=0.851  Top1=0.701
+[Epoch 106] train_loss=2.2827  val_loss=2.2458  ACC=0.702  F1m=0.139  Top5=0.851  Top1=0.702
+[Epoch 107] train_loss=2.2470  val_loss=2.2500  ACC=0.702  F1m=0.142  Top5=0.851  Top1=0.702
+[Epoch 108] train_loss=2.2763  val_loss=2.2520  ACC=0.703  F1m=0.141  Top5=0.852  Top1=0.703
+[Epoch 109] train_loss=2.2551  val_loss=2.2559  ACC=0.703  F1m=0.143  Top5=0.851  Top1=0.703
+[Epoch 110] train_loss=2.2506  val_loss=2.2607  ACC=0.703  F1m=0.143  Top5=0.851  Top1=0.703
+[Epoch 111] train_loss=2.2366  val_loss=2.2647  ACC=0.700  F1m=0.139  Top5=0.852  Top1=0.700
+[Epoch 112] train_loss=2.2401  val_loss=2.2661  ACC=0.699  F1m=0.140  Top5=0.852  Top1=0.699
+[Epoch 113] train_loss=2.2304  val_loss=2.2700  ACC=0.700  F1m=0.138  Top5=0.852  Top1=0.700
+[Epoch 114] train_loss=2.2353  val_loss=2.2770  ACC=0.701  F1m=0.137  Top5=0.851  Top1=0.701
+[Epoch 115] train_loss=2.2737  val_loss=2.2809  ACC=0.701  F1m=0.140  Top5=0.850  Top1=0.701
+[Epoch 116] train_loss=2.2299  val_loss=2.2857  ACC=0.703  F1m=0.142  Top5=0.850  Top1=0.703
+[Epoch 117] train_loss=2.2487  val_loss=2.2915  ACC=0.703  F1m=0.140  Top5=0.850  Top1=0.703
+[Epoch 118] train_loss=2.2927  val_loss=2.2978  ACC=0.703  F1m=0.140  Top5=0.849  Top1=0.703
+[Epoch 119] train_loss=2.2413  val_loss=2.3024  ACC=0.704  F1m=0.142  Top5=0.850  Top1=0.704
+[Epoch 120] train_loss=2.2452  val_loss=2.3050  ACC=0.703  F1m=0.140  Top5=0.849  Top1=0.703
+[Epoch 121] train_loss=2.2021  val_loss=2.3086  ACC=0.704  F1m=0.141  Top5=0.848  Top1=0.704
+[Epoch 122] train_loss=2.2174  val_loss=2.3091  ACC=0.703  F1m=0.141  Top5=0.849  Top1=0.703
+[Epoch 123] train_loss=2.2669  val_loss=2.3095  ACC=0.701  F1m=0.143  Top5=0.849  Top1=0.701
+[Epoch 124] train_loss=2.2503  val_loss=2.3092  ACC=0.700  F1m=0.142  Top5=0.848  Top1=0.700
+[Epoch 125] train_loss=2.2605  val_loss=2.3083  ACC=0.702  F1m=0.145  Top5=0.847  Top1=0.702
+[Epoch 126] train_loss=2.1703  val_loss=2.3102  ACC=0.701  F1m=0.142  Top5=0.849  Top1=0.701
+[Epoch 127] train_loss=2.2308  val_loss=2.3128  ACC=0.702  F1m=0.144  Top5=0.848  Top1=0.702
+[Epoch 128] train_loss=2.2482  val_loss=2.3150  ACC=0.702  F1m=0.145  Top5=0.846  Top1=0.702
+[Epoch 129] train_loss=2.2363  val_loss=2.3209  ACC=0.703  F1m=0.145  Top5=0.848  Top1=0.703
+[Epoch 130] train_loss=2.2492  val_loss=2.3245  ACC=0.702  F1m=0.146  Top5=0.848  Top1=0.702
+[Epoch 131] train_loss=2.2646  val_loss=2.3253  ACC=0.704  F1m=0.146  Top5=0.848  Top1=0.704
+[Epoch 132] train_loss=2.2398  val_loss=2.3302  ACC=0.704  F1m=0.145  Top5=0.847  Top1=0.704
+[Epoch 133] train_loss=2.2446  val_loss=2.3341  ACC=0.702  F1m=0.144  Top5=0.846  Top1=0.702
+[Epoch 134] train_loss=2.2031  val_loss=2.3346  ACC=0.703  F1m=0.142  Top5=0.846  Top1=0.703
+[Epoch 135] train_loss=2.2270  val_loss=2.3344  ACC=0.702  F1m=0.141  Top5=0.846  Top1=0.702
+[Epoch 136] train_loss=2.2616  val_loss=2.3348  ACC=0.703  F1m=0.139  Top5=0.847  Top1=0.703
+[Epoch 137] train_loss=2.2230  val_loss=2.3365  ACC=0.703  F1m=0.139  Top5=0.848  Top1=0.703
+[Epoch 138] train_loss=2.2532  val_loss=2.3375  ACC=0.705  F1m=0.141  Top5=0.848  Top1=0.705
+[Epoch 139] train_loss=2.2543  val_loss=2.3401  ACC=0.704  F1m=0.140  Top5=0.850  Top1=0.704
+[Epoch 140] train_loss=2.2531  val_loss=2.3438  ACC=0.702  F1m=0.139  Top5=0.848  Top1=0.702
+[Epoch 141] train_loss=2.3091  val_loss=2.3450  ACC=0.704  F1m=0.141  Top5=0.848  Top1=0.704
+[Epoch 142] train_loss=2.2324  val_loss=2.3469  ACC=0.703  F1m=0.141  Top5=0.848  Top1=0.703
+[Epoch 143] train_loss=2.2046  val_loss=2.3464  ACC=0.703  F1m=0.142  Top5=0.848  Top1=0.703
+[Epoch 144] train_loss=2.1791  val_loss=2.3494  ACC=0.703  F1m=0.141  Top5=0.847  Top1=0.703
+[Epoch 145] train_loss=2.1898  val_loss=2.3525  ACC=0.702  F1m=0.142  Top5=0.846  Top1=0.702
+[Epoch 146] train_loss=2.2331  val_loss=2.3560  ACC=0.701  F1m=0.144  Top5=0.846  Top1=0.701
+[Epoch 147] train_loss=2.1944  val_loss=2.3599  ACC=0.703  F1m=0.145  Top5=0.846  Top1=0.703
+[Epoch 148] train_loss=2.2155  val_loss=2.3602  ACC=0.702  F1m=0.144  Top5=0.846  Top1=0.702
+[Epoch 149] train_loss=2.2268  val_loss=2.3641  ACC=0.702  F1m=0.144  Top5=0.848  Top1=0.702
+[Epoch 150] train_loss=2.1902  val_loss=2.3634  ACC=0.701  F1m=0.145  Top5=0.845  Top1=0.701
+[Epoch 151] train_loss=2.2150  val_loss=2.3661  ACC=0.703  F1m=0.147  Top5=0.845  Top1=0.703
+[Epoch 152] train_loss=2.2268  val_loss=2.3680  ACC=0.703  F1m=0.146  Top5=0.845  Top1=0.703
+[Epoch 153] train_loss=2.2087  val_loss=2.3689  ACC=0.703  F1m=0.146  Top5=0.844  Top1=0.703
+[Epoch 154] train_loss=2.2104  val_loss=2.3700  ACC=0.703  F1m=0.144  Top5=0.844  Top1=0.703
+[Epoch 155] train_loss=2.1905  val_loss=2.3697  ACC=0.704  F1m=0.144  Top5=0.844  Top1=0.704
+[Epoch 156] train_loss=2.1534  val_loss=2.3697  ACC=0.705  F1m=0.145  Top5=0.844  Top1=0.705
+[Epoch 157] train_loss=2.2045  val_loss=2.3685  ACC=0.705  F1m=0.143  Top5=0.845  Top1=0.705
+[Epoch 158] train_loss=2.2409  val_loss=2.3700  ACC=0.703  F1m=0.142  Top5=0.845  Top1=0.703
+[Epoch 159] train_loss=2.2150  val_loss=2.3700  ACC=0.703  F1m=0.142  Top5=0.846  Top1=0.703
+[Epoch 160] train_loss=2.2435  val_loss=2.3714  ACC=0.703  F1m=0.144  Top5=0.846  Top1=0.703
+[Epoch 161] train_loss=2.1905  val_loss=2.3730  ACC=0.701  F1m=0.143  Top5=0.847  Top1=0.701
+[Epoch 162] train_loss=2.2431  val_loss=2.3755  ACC=0.702  F1m=0.142  Top5=0.847  Top1=0.702
+[Epoch 163] train_loss=2.2586  val_loss=2.3766  ACC=0.702  F1m=0.143  Top5=0.846  Top1=0.702
+[Epoch 164] train_loss=2.1893  val_loss=2.3780  ACC=0.702  F1m=0.142  Top5=0.847  Top1=0.702
+[Epoch 165] train_loss=2.2272  val_loss=2.3753  ACC=0.701  F1m=0.143  Top5=0.847  Top1=0.701
+[Epoch 166] train_loss=2.2446  val_loss=2.3759  ACC=0.702  F1m=0.144  Top5=0.847  Top1=0.702
+[Epoch 167] train_loss=2.2062  val_loss=2.3760  ACC=0.703  F1m=0.148  Top5=0.847  Top1=0.703
+[Epoch 168] train_loss=2.2381  val_loss=2.3753  ACC=0.704  F1m=0.148  Top5=0.847  Top1=0.704
+[Epoch 169] train_loss=2.2460  val_loss=2.3782  ACC=0.705  F1m=0.148  Top5=0.847  Top1=0.705
+[Epoch 170] train_loss=2.1864  val_loss=2.3786  ACC=0.705  F1m=0.146  Top5=0.847  Top1=0.705
+[Epoch 171] train_loss=2.1583  val_loss=2.3804  ACC=0.705  F1m=0.145  Top5=0.847  Top1=0.705
+[Epoch 172] train_loss=2.2360  val_loss=2.3808  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 173] train_loss=2.1926  val_loss=2.3802  ACC=0.705  F1m=0.147  Top5=0.848  Top1=0.705
+[Epoch 174] train_loss=2.2111  val_loss=2.3797  ACC=0.703  F1m=0.146  Top5=0.848  Top1=0.703
+[Epoch 175] train_loss=2.2157  val_loss=2.3782  ACC=0.702  F1m=0.144  Top5=0.847  Top1=0.702
+[Epoch 176] train_loss=2.2329  val_loss=2.3786  ACC=0.703  F1m=0.148  Top5=0.847  Top1=0.703
+[Epoch 177] train_loss=2.1958  val_loss=2.3784  ACC=0.704  F1m=0.144  Top5=0.847  Top1=0.704
+[Epoch 178] train_loss=2.2423  val_loss=2.3783  ACC=0.702  F1m=0.143  Top5=0.846  Top1=0.702
+[Epoch 179] train_loss=2.2016  val_loss=2.3792  ACC=0.701  F1m=0.141  Top5=0.846  Top1=0.701
+[Epoch 180] train_loss=2.2537  val_loss=2.3791  ACC=0.701  F1m=0.141  Top5=0.847  Top1=0.701
+[Epoch 181] train_loss=2.1809  val_loss=2.3802  ACC=0.700  F1m=0.141  Top5=0.848  Top1=0.700
+[Epoch 182] train_loss=2.1530  val_loss=2.3828  ACC=0.701  F1m=0.139  Top5=0.850  Top1=0.701
+[Epoch 183] train_loss=2.2078  val_loss=2.3843  ACC=0.701  F1m=0.138  Top5=0.849  Top1=0.701
+[Epoch 184] train_loss=2.1694  val_loss=2.3829  ACC=0.700  F1m=0.138  Top5=0.848  Top1=0.700
+[Epoch 185] train_loss=2.2213  val_loss=2.3825  ACC=0.702  F1m=0.140  Top5=0.847  Top1=0.702
+[Epoch 186] train_loss=2.1684  val_loss=2.3840  ACC=0.702  F1m=0.140  Top5=0.848  Top1=0.702
+[Epoch 187] train_loss=2.2682  val_loss=2.3850  ACC=0.702  F1m=0.140  Top5=0.847  Top1=0.702
+[Epoch 188] train_loss=2.2516  val_loss=2.3842  ACC=0.702  F1m=0.140  Top5=0.847  Top1=0.702
+[Epoch 189] train_loss=2.1914  val_loss=2.3862  ACC=0.703  F1m=0.141  Top5=0.848  Top1=0.703
+[Epoch 190] train_loss=2.2015  val_loss=2.3859  ACC=0.704  F1m=0.142  Top5=0.848  Top1=0.704
+[Epoch 191] train_loss=2.1844  val_loss=2.3866  ACC=0.704  F1m=0.143  Top5=0.849  Top1=0.704
+[Epoch 192] train_loss=2.2144  val_loss=2.3871  ACC=0.704  F1m=0.142  Top5=0.848  Top1=0.704
+[Epoch 193] train_loss=2.2375  val_loss=2.3899  ACC=0.703  F1m=0.142  Top5=0.847  Top1=0.703
+[Epoch 194] train_loss=2.2523  val_loss=2.3931  ACC=0.704  F1m=0.141  Top5=0.847  Top1=0.704
+[Epoch 195] train_loss=2.2328  val_loss=2.3959  ACC=0.704  F1m=0.141  Top5=0.847  Top1=0.704
+[Epoch 196] train_loss=2.2290  val_loss=2.3977  ACC=0.703  F1m=0.139  Top5=0.847  Top1=0.703
+[Epoch 197] train_loss=2.2148  val_loss=2.4023  ACC=0.704  F1m=0.143  Top5=0.847  Top1=0.704
+[Epoch 198] train_loss=2.1627  val_loss=2.4027  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 199] train_loss=2.2075  val_loss=2.4026  ACC=0.705  F1m=0.143  Top5=0.847  Top1=0.705
+[Epoch 200] train_loss=2.2006  val_loss=2.4022  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 201] train_loss=2.2381  val_loss=2.4040  ACC=0.704  F1m=0.141  Top5=0.847  Top1=0.704
+[Epoch 202] train_loss=2.2065  val_loss=2.4019  ACC=0.705  F1m=0.140  Top5=0.847  Top1=0.705
+[Epoch 203] train_loss=2.2419  val_loss=2.4033  ACC=0.706  F1m=0.142  Top5=0.847  Top1=0.706
+[Epoch 204] train_loss=2.1793  val_loss=2.4069  ACC=0.704  F1m=0.143  Top5=0.847  Top1=0.704
+[Epoch 205] train_loss=2.2511  val_loss=2.4083  ACC=0.705  F1m=0.144  Top5=0.847  Top1=0.705
+[Epoch 206] train_loss=2.2073  val_loss=2.4104  ACC=0.705  F1m=0.142  Top5=0.847  Top1=0.705
+[Epoch 207] train_loss=2.1925  val_loss=2.4119  ACC=0.704  F1m=0.142  Top5=0.846  Top1=0.704
+[Epoch 208] train_loss=2.2186  val_loss=2.4142  ACC=0.703  F1m=0.142  Top5=0.845  Top1=0.703
+[Epoch 209] train_loss=2.1866  val_loss=2.4136  ACC=0.702  F1m=0.141  Top5=0.848  Top1=0.702
+[Epoch 210] train_loss=2.1836  val_loss=2.4130  ACC=0.703  F1m=0.143  Top5=0.847  Top1=0.703
+[Epoch 211] train_loss=2.1680  val_loss=2.4117  ACC=0.705  F1m=0.144  Top5=0.846  Top1=0.705
+[Epoch 212] train_loss=2.1467  val_loss=2.4105  ACC=0.704  F1m=0.142  Top5=0.846  Top1=0.704
+[Epoch 213] train_loss=2.1854  val_loss=2.4117  ACC=0.704  F1m=0.142  Top5=0.848  Top1=0.704
+[Epoch 214] train_loss=2.2071  val_loss=2.4096  ACC=0.702  F1m=0.142  Top5=0.848  Top1=0.702
+[Epoch 215] train_loss=2.1839  val_loss=2.4086  ACC=0.703  F1m=0.142  Top5=0.847  Top1=0.703
+[Epoch 216] train_loss=2.1764  val_loss=2.4091  ACC=0.704  F1m=0.144  Top5=0.847  Top1=0.704
+[Epoch 217] train_loss=2.2309  val_loss=2.4067  ACC=0.704  F1m=0.141  Top5=0.847  Top1=0.704
+[Epoch 218] train_loss=2.2296  val_loss=2.4054  ACC=0.705  F1m=0.143  Top5=0.848  Top1=0.705
+[Epoch 219] train_loss=2.2196  val_loss=2.4041  ACC=0.706  F1m=0.143  Top5=0.847  Top1=0.706
+[Epoch 220] train_loss=2.2182  val_loss=2.4037  ACC=0.706  F1m=0.139  Top5=0.846  Top1=0.706
+[Epoch 221] train_loss=2.1910  val_loss=2.4033  ACC=0.704  F1m=0.139  Top5=0.847  Top1=0.704
+[Epoch 222] train_loss=2.1980  val_loss=2.4061  ACC=0.706  F1m=0.139  Top5=0.847  Top1=0.706
+[Epoch 223] train_loss=2.2033  val_loss=2.4091  ACC=0.706  F1m=0.139  Top5=0.846  Top1=0.706
+[Epoch 224] train_loss=2.2031  val_loss=2.4100  ACC=0.707  F1m=0.140  Top5=0.845  Top1=0.707
+[Epoch 225] train_loss=2.1877  val_loss=2.4087  ACC=0.707  F1m=0.140  Top5=0.845  Top1=0.707
+[Epoch 226] train_loss=2.1899  val_loss=2.4081  ACC=0.707  F1m=0.140  Top5=0.846  Top1=0.707
+[Epoch 227] train_loss=2.2091  val_loss=2.4073  ACC=0.707  F1m=0.140  Top5=0.847  Top1=0.707
+[Epoch 228] train_loss=2.1985  val_loss=2.4086  ACC=0.707  F1m=0.140  Top5=0.847  Top1=0.707
+[Epoch 229] train_loss=2.2214  val_loss=2.4080  ACC=0.708  F1m=0.142  Top5=0.847  Top1=0.708
+[Epoch 230] train_loss=2.1876  val_loss=2.4074  ACC=0.706  F1m=0.142  Top5=0.847  Top1=0.706
+[Epoch 231] train_loss=2.2070  val_loss=2.4084  ACC=0.706  F1m=0.142  Top5=0.846  Top1=0.706
+[Epoch 232] train_loss=2.2098  val_loss=2.4096  ACC=0.707  F1m=0.145  Top5=0.846  Top1=0.707
+[Epoch 233] train_loss=2.2402  val_loss=2.4121  ACC=0.707  F1m=0.143  Top5=0.846  Top1=0.707
+[Epoch 234] train_loss=2.2092  val_loss=2.4130  ACC=0.706  F1m=0.144  Top5=0.847  Top1=0.706
+[Epoch 235] train_loss=2.1789  val_loss=2.4134  ACC=0.705  F1m=0.144  Top5=0.848  Top1=0.705
+[Epoch 236] train_loss=2.2150  val_loss=2.4159  ACC=0.704  F1m=0.144  Top5=0.848  Top1=0.704
+[Epoch 237] train_loss=2.1921  val_loss=2.4149  ACC=0.704  F1m=0.142  Top5=0.847  Top1=0.704
+[Epoch 238] train_loss=2.1984  val_loss=2.4154  ACC=0.703  F1m=0.141  Top5=0.847  Top1=0.703
+[Epoch 239] train_loss=2.1973  val_loss=2.4135  ACC=0.704  F1m=0.141  Top5=0.848  Top1=0.704
+[Epoch 240] train_loss=2.1861  val_loss=2.4135  ACC=0.704  F1m=0.142  Top5=0.847  Top1=0.704
+[Epoch 241] train_loss=2.1765  val_loss=2.4135  ACC=0.704  F1m=0.141  Top5=0.848  Top1=0.704
+[Epoch 242] train_loss=2.1611  val_loss=2.4145  ACC=0.705  F1m=0.145  Top5=0.847  Top1=0.705
+[Epoch 243] train_loss=2.1459  val_loss=2.4145  ACC=0.706  F1m=0.146  Top5=0.846  Top1=0.706
+[Epoch 244] train_loss=2.1771  val_loss=2.4107  ACC=0.706  F1m=0.146  Top5=0.846  Top1=0.706
+[Epoch 245] train_loss=2.2069  val_loss=2.4090  ACC=0.706  F1m=0.146  Top5=0.846  Top1=0.706
+[Epoch 246] train_loss=2.2014  val_loss=2.4086  ACC=0.706  F1m=0.148  Top5=0.847  Top1=0.706
+[Epoch 247] train_loss=2.1623  val_loss=2.4072  ACC=0.706  F1m=0.147  Top5=0.847  Top1=0.706
+[Epoch 248] train_loss=2.1448  val_loss=2.4068  ACC=0.704  F1m=0.145  Top5=0.847  Top1=0.704
+[Epoch 249] train_loss=2.2177  val_loss=2.4081  ACC=0.703  F1m=0.146  Top5=0.847  Top1=0.703
+[Epoch 250] train_loss=2.2094  val_loss=2.4109  ACC=0.705  F1m=0.148  Top5=0.845  Top1=0.705
+[Epoch 251] train_loss=2.1904  val_loss=2.4098  ACC=0.706  F1m=0.148  Top5=0.846  Top1=0.706
+[Epoch 252] train_loss=2.1511  val_loss=2.4113  ACC=0.705  F1m=0.148  Top5=0.846  Top1=0.705
+[Epoch 253] train_loss=2.2256  val_loss=2.4148  ACC=0.704  F1m=0.145  Top5=0.847  Top1=0.704
+[Epoch 254] train_loss=2.2260  val_loss=2.4195  ACC=0.703  F1m=0.145  Top5=0.846  Top1=0.703
+[Epoch 255] train_loss=2.1819  val_loss=2.4227  ACC=0.702  F1m=0.144  Top5=0.846  Top1=0.702
+[Epoch 256] train_loss=2.1665  val_loss=2.4234  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 257] train_loss=2.1467  val_loss=2.4213  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 258] train_loss=2.2032  val_loss=2.4182  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 259] train_loss=2.1711  val_loss=2.4206  ACC=0.702  F1m=0.143  Top5=0.847  Top1=0.702
+[Epoch 260] train_loss=2.1753  val_loss=2.4208  ACC=0.702  F1m=0.143  Top5=0.847  Top1=0.702
+[Epoch 261] train_loss=2.2514  val_loss=2.4186  ACC=0.703  F1m=0.143  Top5=0.847  Top1=0.703
+[Epoch 262] train_loss=2.1704  val_loss=2.4154  ACC=0.704  F1m=0.145  Top5=0.848  Top1=0.704
+[Epoch 263] train_loss=2.1767  val_loss=2.4156  ACC=0.703  F1m=0.145  Top5=0.847  Top1=0.703
+[Epoch 264] train_loss=2.1893  val_loss=2.4150  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 265] train_loss=2.1825  val_loss=2.4152  ACC=0.703  F1m=0.144  Top5=0.844  Top1=0.703
+[Epoch 266] train_loss=2.2254  val_loss=2.4141  ACC=0.702  F1m=0.146  Top5=0.844  Top1=0.702
+[Epoch 267] train_loss=2.1881  val_loss=2.4135  ACC=0.703  F1m=0.146  Top5=0.845  Top1=0.703
+[Epoch 268] train_loss=2.1846  val_loss=2.4133  ACC=0.703  F1m=0.147  Top5=0.845  Top1=0.703
+[Epoch 269] train_loss=2.2291  val_loss=2.4124  ACC=0.702  F1m=0.144  Top5=0.845  Top1=0.702
+[Epoch 270] train_loss=2.2211  val_loss=2.4139  ACC=0.703  F1m=0.146  Top5=0.845  Top1=0.703
+[Epoch 271] train_loss=2.1512  val_loss=2.4122  ACC=0.703  F1m=0.146  Top5=0.844  Top1=0.703
+[Epoch 272] train_loss=2.1631  val_loss=2.4104  ACC=0.702  F1m=0.145  Top5=0.844  Top1=0.702
+[Epoch 273] train_loss=2.1716  val_loss=2.4115  ACC=0.703  F1m=0.145  Top5=0.846  Top1=0.703
+[Epoch 274] train_loss=2.1554  val_loss=2.4141  ACC=0.704  F1m=0.146  Top5=0.845  Top1=0.704
+[Epoch 275] train_loss=2.1666  val_loss=2.4183  ACC=0.702  F1m=0.144  Top5=0.846  Top1=0.702
+[Epoch 276] train_loss=2.1955  val_loss=2.4181  ACC=0.703  F1m=0.144  Top5=0.846  Top1=0.703
+[Epoch 277] train_loss=2.1819  val_loss=2.4196  ACC=0.705  F1m=0.147  Top5=0.845  Top1=0.705
+[Epoch 278] train_loss=2.1731  val_loss=2.4178  ACC=0.706  F1m=0.149  Top5=0.847  Top1=0.706
+[Epoch 279] train_loss=2.2003  val_loss=2.4212  ACC=0.706  F1m=0.148  Top5=0.846  Top1=0.706
+[Epoch 280] train_loss=2.1505  val_loss=2.4239  ACC=0.706  F1m=0.147  Top5=0.847  Top1=0.706
+[Epoch 281] train_loss=2.1645  val_loss=2.4234  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 282] train_loss=2.1401  val_loss=2.4242  ACC=0.705  F1m=0.145  Top5=0.846  Top1=0.705
+[Epoch 283] train_loss=2.1600  val_loss=2.4270  ACC=0.704  F1m=0.144  Top5=0.844  Top1=0.704
+[Epoch 284] train_loss=2.2059  val_loss=2.4265  ACC=0.703  F1m=0.143  Top5=0.843  Top1=0.703
+[Epoch 285] train_loss=2.1879  val_loss=2.4294  ACC=0.702  F1m=0.143  Top5=0.844  Top1=0.702
+[Epoch 286] train_loss=2.1394  val_loss=2.4319  ACC=0.701  F1m=0.144  Top5=0.843  Top1=0.701
+[Epoch 287] train_loss=2.1575  val_loss=2.4327  ACC=0.701  F1m=0.144  Top5=0.842  Top1=0.701
+[Epoch 288] train_loss=2.2124  val_loss=2.4366  ACC=0.701  F1m=0.143  Top5=0.842  Top1=0.701
+[Epoch 289] train_loss=2.2120  val_loss=2.4357  ACC=0.700  F1m=0.141  Top5=0.843  Top1=0.700
+[Epoch 290] train_loss=2.1303  val_loss=2.4371  ACC=0.701  F1m=0.142  Top5=0.844  Top1=0.701
+[Epoch 291] train_loss=2.1348  val_loss=2.4384  ACC=0.705  F1m=0.143  Top5=0.844  Top1=0.705
+[Epoch 292] train_loss=2.2022  val_loss=2.4375  ACC=0.704  F1m=0.142  Top5=0.845  Top1=0.704
+[Epoch 293] train_loss=2.1771  val_loss=2.4411  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 294] train_loss=2.2046  val_loss=2.4400  ACC=0.703  F1m=0.146  Top5=0.846  Top1=0.703
+[Epoch 295] train_loss=2.1754  val_loss=2.4400  ACC=0.703  F1m=0.145  Top5=0.845  Top1=0.703
+[Epoch 296] train_loss=2.1690  val_loss=2.4432  ACC=0.703  F1m=0.144  Top5=0.846  Top1=0.703
+[Epoch 297] train_loss=2.1788  val_loss=2.4445  ACC=0.703  F1m=0.143  Top5=0.847  Top1=0.703
+[Epoch 298] train_loss=2.1869  val_loss=2.4425  ACC=0.703  F1m=0.142  Top5=0.847  Top1=0.703
+[Epoch 299] train_loss=2.1729  val_loss=2.4408  ACC=0.704  F1m=0.139  Top5=0.846  Top1=0.704
+[Epoch 300] train_loss=2.1830  val_loss=2.4387  ACC=0.705  F1m=0.139  Top5=0.847  Top1=0.705
+[Epoch 301] train_loss=2.2041  val_loss=2.4370  ACC=0.704  F1m=0.141  Top5=0.846  Top1=0.704
+[Epoch 302] train_loss=2.1492  val_loss=2.4392  ACC=0.704  F1m=0.142  Top5=0.848  Top1=0.704
+[Epoch 303] train_loss=2.2064  val_loss=2.4432  ACC=0.705  F1m=0.141  Top5=0.848  Top1=0.705
+[Epoch 304] train_loss=2.2041  val_loss=2.4433  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 305] train_loss=2.1704  val_loss=2.4418  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 306] train_loss=2.2173  val_loss=2.4393  ACC=0.705  F1m=0.143  Top5=0.847  Top1=0.705
+[Epoch 307] train_loss=2.1706  val_loss=2.4367  ACC=0.704  F1m=0.143  Top5=0.846  Top1=0.704
+[Epoch 308] train_loss=2.2049  val_loss=2.4372  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 309] train_loss=2.2115  val_loss=2.4346  ACC=0.704  F1m=0.145  Top5=0.846  Top1=0.704
+[Epoch 310] train_loss=2.1433  val_loss=2.4350  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 311] train_loss=2.1711  val_loss=2.4379  ACC=0.703  F1m=0.141  Top5=0.846  Top1=0.703
+[Epoch 312] train_loss=2.1408  val_loss=2.4387  ACC=0.703  F1m=0.143  Top5=0.846  Top1=0.703
+[Epoch 313] train_loss=2.1982  val_loss=2.4381  ACC=0.704  F1m=0.145  Top5=0.847  Top1=0.704
+[Epoch 314] train_loss=2.1650  val_loss=2.4381  ACC=0.703  F1m=0.145  Top5=0.849  Top1=0.703
+[Epoch 315] train_loss=2.2030  val_loss=2.4377  ACC=0.703  F1m=0.146  Top5=0.848  Top1=0.703
+[Epoch 316] train_loss=2.1830  val_loss=2.4373  ACC=0.703  F1m=0.145  Top5=0.848  Top1=0.703
+[Epoch 317] train_loss=2.2005  val_loss=2.4382  ACC=0.704  F1m=0.147  Top5=0.847  Top1=0.704
+[Epoch 318] train_loss=2.1713  val_loss=2.4400  ACC=0.703  F1m=0.146  Top5=0.846  Top1=0.703
+[Epoch 319] train_loss=2.2073  val_loss=2.4408  ACC=0.703  F1m=0.145  Top5=0.846  Top1=0.703
+[Epoch 320] train_loss=2.1934  val_loss=2.4403  ACC=0.704  F1m=0.144  Top5=0.846  Top1=0.704
+[Epoch 321] train_loss=2.2064  val_loss=2.4410  ACC=0.704  F1m=0.145  Top5=0.845  Top1=0.704
+[Epoch 322] train_loss=2.1940  val_loss=2.4421  ACC=0.703  F1m=0.145  Top5=0.845  Top1=0.703
+[Epoch 323] train_loss=2.1816  val_loss=2.4415  ACC=0.703  F1m=0.144  Top5=0.845  Top1=0.703
+[Epoch 324] train_loss=2.2234  val_loss=2.4409  ACC=0.704  F1m=0.141  Top5=0.845  Top1=0.704
+[Epoch 325] train_loss=2.2106  val_loss=2.4406  ACC=0.704  F1m=0.142  Top5=0.846  Top1=0.704
+[Epoch 326] train_loss=2.1724  val_loss=2.4408  ACC=0.703  F1m=0.141  Top5=0.847  Top1=0.703
+[Epoch 327] train_loss=2.1772  val_loss=2.4399  ACC=0.704  F1m=0.143  Top5=0.846  Top1=0.704
+[Epoch 328] train_loss=2.1121  val_loss=2.4365  ACC=0.702  F1m=0.140  Top5=0.845  Top1=0.702
+[Epoch 329] train_loss=2.1441  val_loss=2.4383  ACC=0.704  F1m=0.141  Top5=0.845  Top1=0.704
+[Epoch 330] train_loss=2.2107  val_loss=2.4372  ACC=0.704  F1m=0.141  Top5=0.845  Top1=0.704
+[Epoch 331] train_loss=2.1688  val_loss=2.4343  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 332] train_loss=2.1400  val_loss=2.4359  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 333] train_loss=2.1788  val_loss=2.4356  ACC=0.705  F1m=0.141  Top5=0.847  Top1=0.705
+[Epoch 334] train_loss=2.1618  val_loss=2.4365  ACC=0.703  F1m=0.139  Top5=0.846  Top1=0.703
+[Epoch 335] train_loss=2.2140  val_loss=2.4404  ACC=0.705  F1m=0.139  Top5=0.846  Top1=0.705
+[Epoch 336] train_loss=2.2145  val_loss=2.4432  ACC=0.705  F1m=0.142  Top5=0.846  Top1=0.705
+[Epoch 337] train_loss=2.1727  val_loss=2.4458  ACC=0.705  F1m=0.143  Top5=0.845  Top1=0.705
+[Epoch 338] train_loss=2.1700  val_loss=2.4451  ACC=0.707  F1m=0.143  Top5=0.845  Top1=0.707
+[Epoch 339] train_loss=2.1879  val_loss=2.4451  ACC=0.706  F1m=0.142  Top5=0.845  Top1=0.706
+[Epoch 340] train_loss=2.2152  val_loss=2.4456  ACC=0.706  F1m=0.140  Top5=0.845  Top1=0.706
+[Epoch 341] train_loss=2.1955  val_loss=2.4466  ACC=0.706  F1m=0.142  Top5=0.845  Top1=0.706
+[Epoch 342] train_loss=2.1838  val_loss=2.4450  ACC=0.706  F1m=0.143  Top5=0.845  Top1=0.706
+[Epoch 343] train_loss=2.1671  val_loss=2.4433  ACC=0.706  F1m=0.144  Top5=0.845  Top1=0.706
+[Epoch 344] train_loss=2.1744  val_loss=2.4413  ACC=0.706  F1m=0.142  Top5=0.844  Top1=0.706
+[Epoch 345] train_loss=2.2366  val_loss=2.4416  ACC=0.707  F1m=0.142  Top5=0.844  Top1=0.707
+[Epoch 346] train_loss=2.1492  val_loss=2.4412  ACC=0.707  F1m=0.142  Top5=0.844  Top1=0.707
+[Epoch 347] train_loss=2.1748  val_loss=2.4381  ACC=0.708  F1m=0.144  Top5=0.844  Top1=0.708
+[Epoch 348] train_loss=2.1870  val_loss=2.4344  ACC=0.709  F1m=0.148  Top5=0.846  Top1=0.709
+[Epoch 349] train_loss=2.1383  val_loss=2.4304  ACC=0.709  F1m=0.146  Top5=0.845  Top1=0.709
+[Epoch 350] train_loss=2.2151  val_loss=2.4314  ACC=0.709  F1m=0.147  Top5=0.846  Top1=0.709
+[Epoch 351] train_loss=2.1458  val_loss=2.4260  ACC=0.707  F1m=0.147  Top5=0.847  Top1=0.707
+[Epoch 352] train_loss=2.2234  val_loss=2.4224  ACC=0.708  F1m=0.147  Top5=0.848  Top1=0.708
+[Epoch 353] train_loss=2.1877  val_loss=2.4179  ACC=0.709  F1m=0.148  Top5=0.847  Top1=0.709
+[Epoch 354] train_loss=2.1657  val_loss=2.4194  ACC=0.711  F1m=0.149  Top5=0.847  Top1=0.711
+[Epoch 355] train_loss=2.1962  val_loss=2.4216  ACC=0.708  F1m=0.148  Top5=0.849  Top1=0.708
+[Epoch 356] train_loss=2.2031  val_loss=2.4244  ACC=0.708  F1m=0.147  Top5=0.847  Top1=0.708
+[Epoch 357] train_loss=2.1912  val_loss=2.4275  ACC=0.708  F1m=0.146  Top5=0.847  Top1=0.708
+Early stop at epoch 357 (no improve 300/300).
+[Temp scaling] learned T = 1.426
+
+=== TEST ===  ACC=0.711  F1m=0.132  Top5=0.855  Top10=0.886
+[Best Model Saved] /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/best_acc.pt (includes temperature).
+Saved: /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results/test_predictions.csv
+
+#!/bin/bash
+#SBATCH -J predict_epitope       
+#SBATCH -A PAS2177         
+#SBATCH --gpus=2   
+#SBATCH --mem=128G          
+#SBATCH -t 3:00:00       
+#SBATCH -o predict_epitope.%j.out  
+#SBATCH -e predict_epitope.%j.err  
+python /users/PAS2177/liu9756/DualChain-SelfAg_prediction/scr/train/train_epitope_classifier.py --data /users/PAS2177/liu9756/DualChain-SelfAg_prediction/data/featurized --outdir /users/PAS2177/liu9756/DualChain-SelfAg_prediction/results/train_results --epochs 1000 --bs 128 --lr 1e-4 --wd 3e-4 --d_model 256 --use_hla 1 --use_seq_a 1 --use_seq_b 1 --use_cosine_head 1 --use_focal 1 --label_smoothing 0 --use_sampler 1 --sched cosine --early_stop 1 --early_stop_patience 300 --temp_scale 1 
